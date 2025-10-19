@@ -1,0 +1,5502 @@
+{
+  "STANS (The Official Soundtrack)": {
+    "Stan": {
+      "id": "0TR2EOv4irt7GAiLIZ3kZ8",
+      "name": "Stan",
+      "popularity": 60,
+      "duration_ms": 404106,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Bad Guy": {
+      "id": "3VvxblbhUGyyBgdT7EQR0p",
+      "name": "Bad Guy",
+      "popularity": 55,
+      "duration_ms": 434358,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Arose": {
+      "id": "773Ls0jOd52jEzWh6Pc55U",
+      "name": "Arose",
+      "popularity": 52,
+      "duration_ms": 274626,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Beautiful": {
+      "id": "2hejwnTsNazjgnLFxnwvbF",
+      "name": "Beautiful",
+      "popularity": 54,
+      "duration_ms": 392826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Not Afraid": {
+      "id": "5lRcJDTuiLWQe0OkWNIfVS",
+      "name": "Not Afraid",
+      "popularity": 52,
+      "duration_ms": 248133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Rap God": {
+      "id": "0FifFDm8n0KTOr7Trmd2WJ",
+      "name": "Rap God",
+      "popularity": 52,
+      "duration_ms": 363521,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Stan - Live At Wembley 2014": {
+      "id": "4lcSepTjEBRXz8nGnDcGnb",
+      "name": "Stan - Live At Wembley 2014",
+      "popularity": 49,
+      "duration_ms": 228000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Just Don't Give A Fuck": {
+      "id": "2QHw3DQbVxttaU4pQU9oPH",
+      "name": "Just Don't Give A Fuck",
+      "popularity": 51,
+      "duration_ms": 242533,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Say Goodbye Hollywood": {
+      "id": "15NS5eaGKVrqBR2APHrV2P",
+      "name": "Say Goodbye Hollywood",
+      "popularity": 50,
+      "duration_ms": 272840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Everybody’s Looking At Me": {
+      "id": "4yYI0Cly9B2p8XbNxfNCRy",
+      "name": "Everybody’s Looking At Me",
+      "popularity": 70,
+      "duration_ms": 294357,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Still Don't Give A Fuck": {
+      "id": "3eecrCDdqIkSzRC5ljrRTq",
+      "name": "Still Don't Give A Fuck",
+      "popularity": 52,
+      "duration_ms": 257493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    },
+    "Stan - Live At 43rd Grammy Awards": {
+      "id": "5jaUtMpeg2olcV5UWSYFcF",
+      "name": "Stan - Live At 43rd Grammy Awards",
+      "popularity": 50,
+      "duration_ms": 380280,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "STANS (The Official Soundtrack)",
+      "release_date": "2025-08-26"
+    }
+  },
+  "The Marshall Mathers LP (25th Anniversary)": {
+    "Public Service Announcement 2000": {
+      "id": "6p3ASTBj2szMeEeJT6cuxJ",
+      "name": "Public Service Announcement 2000",
+      "popularity": 10,
+      "duration_ms": 25866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Kill You": {
+      "id": "2AQX2E43xf0I9YfiEErIGj",
+      "name": "Kill You",
+      "popularity": 44,
+      "duration_ms": 264400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Stan": {
+      "id": "6Tk2rub85uwcll2zXRhGmc",
+      "name": "Stan",
+      "popularity": 42,
+      "duration_ms": 404106,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Paul - Skit": {
+      "id": "5cDYM8J97rrsrzJQct7Aj7",
+      "name": "Paul - Skit",
+      "popularity": 2,
+      "duration_ms": 10600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Who Knew": {
+      "id": "3joxW4isyF3iLFcnlglVDw",
+      "name": "Who Knew",
+      "popularity": 39,
+      "duration_ms": 227760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Steve Berman": {
+      "id": "6Dv33n1twug7uEODCZyqQt",
+      "name": "Steve Berman",
+      "popularity": 36,
+      "duration_ms": 53573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "The Way I Am": {
+      "id": "4WsgxjBH2ZeAiysMLOz1Do",
+      "name": "The Way I Am",
+      "popularity": 42,
+      "duration_ms": 290426,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "The Real Slim Shady": {
+      "id": "1J0Ui4bBoImKox91SvQOKP",
+      "name": "The Real Slim Shady",
+      "popularity": 41,
+      "duration_ms": 284200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Remember Me?": {
+      "id": "7JkkghoaXsH4PJ4LcfIaxC",
+      "name": "Remember Me?",
+      "popularity": 37,
+      "duration_ms": 218533,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "I'm Back": {
+      "id": "1mF071OitieeHBdQqlLwOR",
+      "name": "I'm Back",
+      "popularity": 39,
+      "duration_ms": 309760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Marshall Mathers": {
+      "id": "4sApdb7SAmvKKpQ9lLJU7Q",
+      "name": "Marshall Mathers",
+      "popularity": 38,
+      "duration_ms": 320933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Ken Kaniff - Skit": {
+      "id": "7eeNvP9QllRWpscZ1wvIDO",
+      "name": "Ken Kaniff - Skit",
+      "popularity": 32,
+      "duration_ms": 61800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Drug Ballad": {
+      "id": "1EC4QSsl0dpUvSsYEFCB1c",
+      "name": "Drug Ballad",
+      "popularity": 37,
+      "duration_ms": 300266,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Amityville": {
+      "id": "2cH6qifbtQ1LrpCs469cI6",
+      "name": "Amityville",
+      "popularity": 35,
+      "duration_ms": 254773,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Bitch Please II": {
+      "id": "7rwrQ5OuCbEiL3gAjqInGF",
+      "name": "Bitch Please II",
+      "popularity": 38,
+      "duration_ms": 288200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Kim": {
+      "id": "2xObN3rQjwTSPS2vpp7GvV",
+      "name": "Kim",
+      "popularity": 36,
+      "duration_ms": 377893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Under The Influence": {
+      "id": "71exvQ4KqhxDg8TWUdzgAn",
+      "name": "Under The Influence",
+      "popularity": 37,
+      "duration_ms": 321666,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "Criminal": {
+      "id": "2rq5Q6nA9QqveojzP6KZWR",
+      "name": "Criminal",
+      "popularity": 36,
+      "duration_ms": 319026,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "The Real Slim Shady - Live From MTV VMAs / 2000": {
+      "id": "4TrUI2goF66ha8an2AuWsI",
+      "name": "The Real Slim Shady - Live From MTV VMAs / 2000",
+      "popularity": 34,
+      "duration_ms": 172885,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    },
+    "The Way I Am - Live From MTV VMAs / 2000": {
+      "id": "6ipijfvYSL9ddfKjbRVuxU",
+      "name": "The Way I Am - Live From MTV VMAs / 2000",
+      "popularity": 34,
+      "duration_ms": 130794,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP (25th Anniversary)",
+      "release_date": "2025-05-23"
+    }
+  },
+  "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition": {
+    "Renaissance": {
+      "id": "29kP1nQ0wAoGdkjlZB9f1a",
+      "name": "Renaissance",
+      "popularity": 46,
+      "duration_ms": 98152,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Habits": {
+      "id": "53kFmhBak6PbvO0phyL4Yo",
+      "name": "Habits",
+      "popularity": 47,
+      "duration_ms": 298384,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Trouble": {
+      "id": "5ZgUh87itaRiOHz3XyJrBC",
+      "name": "Trouble",
+      "popularity": 44,
+      "duration_ms": 41487,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Brand New Dance": {
+      "id": "4bdMOgYZehlFLkcNmvMkT5",
+      "name": "Brand New Dance",
+      "popularity": 47,
+      "duration_ms": 206649,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Evil": {
+      "id": "3egjuPVUzezaaKSu21wDIb",
+      "name": "Evil",
+      "popularity": 46,
+      "duration_ms": 230358,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "All You Got - skit": {
+      "id": "7vFdI157seXQORiNa94Z59",
+      "name": "All You Got - skit",
+      "popularity": 5,
+      "duration_ms": 24359,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Lucifer": {
+      "id": "7rmwxGeUylxyZtMielQEhu",
+      "name": "Lucifer",
+      "popularity": 45,
+      "duration_ms": 261758,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Antichrist": {
+      "id": "6XhwcdZxNEPLkaFvRceYy6",
+      "name": "Antichrist",
+      "popularity": 45,
+      "duration_ms": 314226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Fuel": {
+      "id": "6Yfg3TrnzThhrZ0i6UDBSv",
+      "name": "Fuel",
+      "popularity": 52,
+      "duration_ms": 213646,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Road Rage": {
+      "id": "6yqJIXbshHkGbdDDiaTmTE",
+      "name": "Road Rage",
+      "popularity": 43,
+      "duration_ms": 217736,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Houdini": {
+      "id": "3ELHphyeYEG8QcOYohNXzS",
+      "name": "Houdini",
+      "popularity": 47,
+      "duration_ms": 227032,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Breaking News - skit": {
+      "id": "07nFv4VQx7U9Kgeu5gLBHO",
+      "name": "Breaking News - skit",
+      "popularity": 40,
+      "duration_ms": 37314,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Guilty Conscience 2": {
+      "id": "1rDFHwb60YvuSfaCSp0Q4p",
+      "name": "Guilty Conscience 2",
+      "popularity": 44,
+      "duration_ms": 325531,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Head Honcho": {
+      "id": "5WeDOVU5YJsYUoKs7WOlKW",
+      "name": "Head Honcho",
+      "popularity": 42,
+      "duration_ms": 234836,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Temporary": {
+      "id": "0JarHeck5c9TbguVahtmr5",
+      "name": "Temporary",
+      "popularity": 45,
+      "duration_ms": 297667,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Bad One": {
+      "id": "3IDIpnV4qxCH9Sh9FvxHU8",
+      "name": "Bad One",
+      "popularity": 43,
+      "duration_ms": 270006,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Tobey (feat. Big Sean and BabyTron)": {
+      "id": "7FKtv4vAg9iPIfDB55NKaa",
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "popularity": 44,
+      "duration_ms": 284903,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Guess Who’s Back - skit": {
+      "id": "1W8I0qSXAhoQqT1cTmp3u4",
+      "name": "Guess Who’s Back - skit",
+      "popularity": 38,
+      "duration_ms": 62868,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Somebody Save Me": {
+      "id": "4AVmC14ZG1nAKFIG67Jgyb",
+      "name": "Somebody Save Me",
+      "popularity": 46,
+      "duration_ms": 230199,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Steve Berman - skit": {
+      "id": "6X2R9KeWi7sII0YRpgzg0j",
+      "name": "Steve Berman - skit",
+      "popularity": 4,
+      "duration_ms": 24582,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Fuel - Shady Edition": {
+      "id": "68IkI6ttYOzNyS5iW2Zx70",
+      "name": "Fuel - Shady Edition",
+      "popularity": 51,
+      "duration_ms": 290422,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Like My Shit": {
+      "id": "3ZIkmxpH72lBkAXq9C4pb2",
+      "name": "Like My Shit",
+      "popularity": 48,
+      "duration_ms": 227961,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    },
+    "Kyrie & Luka": {
+      "id": "6AgMzkvClobScVCFOyxGDD",
+      "name": "Kyrie & Luka",
+      "popularity": 45,
+      "duration_ms": 252799,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce): Expanded Mourner’s Edition",
+      "release_date": "2024-09-13"
+    }
+  },
+  "The Death of Slim Shady (Coup De Grâce)": {
+    "Renaissance": {
+      "id": "55u5QIlEuzCipJBtZPdJio",
+      "name": "Renaissance",
+      "popularity": 59,
+      "duration_ms": 98152,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Habits": {
+      "id": "7I3RalBqE7ZE0RSxgGlGlm",
+      "name": "Habits",
+      "popularity": 61,
+      "duration_ms": 298384,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Trouble": {
+      "id": "59151GHN7yr5g9B3bqlGdR",
+      "name": "Trouble",
+      "popularity": 55,
+      "duration_ms": 41487,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Brand New Dance": {
+      "id": "77pfjsq0gSZwO8bYVTVROo",
+      "name": "Brand New Dance",
+      "popularity": 61,
+      "duration_ms": 206649,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Evil": {
+      "id": "21LCotDEwR7R8qOnqPVzi9",
+      "name": "Evil",
+      "popularity": 59,
+      "duration_ms": 230358,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "All You Got - skit": {
+      "id": "7y8n4wbMzsLMzTI6Qan02f",
+      "name": "All You Got - skit",
+      "popularity": 9,
+      "duration_ms": 24359,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Lucifer": {
+      "id": "50No7LiVffAJCWIChZodmU",
+      "name": "Lucifer",
+      "popularity": 58,
+      "duration_ms": 261758,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Antichrist": {
+      "id": "0DIcssPpatAMqFXLZCxZMN",
+      "name": "Antichrist",
+      "popularity": 58,
+      "duration_ms": 314226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Fuel": {
+      "id": "5In8B6Om5OKrhwBMB4tXSi",
+      "name": "Fuel",
+      "popularity": 70,
+      "duration_ms": 213646,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Road Rage": {
+      "id": "0bBnrokPXtfwXQarqCu1Gz",
+      "name": "Road Rage",
+      "popularity": 54,
+      "duration_ms": 217736,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Houdini": {
+      "id": "1CDQzbCz4KSQxHe7LMEgRM",
+      "name": "Houdini",
+      "popularity": 72,
+      "duration_ms": 227032,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Breaking News - skit": {
+      "id": "0TDXeyH0hdiz0SZQo5w1nm",
+      "name": "Breaking News - skit",
+      "popularity": 49,
+      "duration_ms": 37314,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Guilty Conscience 2": {
+      "id": "3LkXOTWDwskwciQoARFDzu",
+      "name": "Guilty Conscience 2",
+      "popularity": 57,
+      "duration_ms": 325531,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Head Honcho": {
+      "id": "7GXOXYdU950eRvk5rUAE8F",
+      "name": "Head Honcho",
+      "popularity": 55,
+      "duration_ms": 234836,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Temporary": {
+      "id": "6uMGHQvhZq8YyT4kdnG1L3",
+      "name": "Temporary",
+      "popularity": 61,
+      "duration_ms": 297667,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Bad One": {
+      "id": "15qnOSRK5HMWOgL5HURhrc",
+      "name": "Bad One",
+      "popularity": 57,
+      "duration_ms": 270006,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Tobey (feat. Big Sean and BabyTron)": {
+      "id": "1ymWIr4E5x6xORlDO0bXlP",
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "popularity": 64,
+      "duration_ms": 284903,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Guess Who’s Back - skit": {
+      "id": "0cyN7uQYxTlqwgyh6rm1IH",
+      "name": "Guess Who’s Back - skit",
+      "popularity": 48,
+      "duration_ms": 62868,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    },
+    "Somebody Save Me": {
+      "id": "4HMUrFl8y6rQCzEbaGEkcj",
+      "name": "Somebody Save Me",
+      "popularity": 71,
+      "duration_ms": 230199,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Death of Slim Shady (Coup De Grâce)",
+      "release_date": "2024-07-12"
+    }
+  },
+  "The Marshall Mathers LP2 (Expanded Edition)": {
+    "Bad Guy": {
+      "id": "4hsYSKz5gFMiO2q0V4L8m8",
+      "name": "Bad Guy",
+      "popularity": 38,
+      "duration_ms": 434358,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Parking Lot - Skit": {
+      "id": "7tldUICXp9StZFmayDxv1j",
+      "name": "Parking Lot - Skit",
+      "popularity": 28,
+      "duration_ms": 55337,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Rhyme Or Reason": {
+      "id": "1nB5rEmO17g1MlFEN8KQSd",
+      "name": "Rhyme Or Reason",
+      "popularity": 37,
+      "duration_ms": 301721,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "So Much Better": {
+      "id": "7ATSAXVEBlryu2EKOAo0Nh",
+      "name": "So Much Better",
+      "popularity": 36,
+      "duration_ms": 261385,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Survival": {
+      "id": "5GEehBTspT5vfv3cGDoaDi",
+      "name": "Survival",
+      "popularity": 40,
+      "duration_ms": 272417,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Legacy": {
+      "id": "2DDdr4anGxoayDBoJEpK7j",
+      "name": "Legacy",
+      "popularity": 37,
+      "duration_ms": 296269,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Asshole": {
+      "id": "2zSWsOolR5LkAoGapAh8mJ",
+      "name": "Asshole",
+      "popularity": 35,
+      "duration_ms": 288983,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Berzerk": {
+      "id": "2UJfBtaGdp3cUPETLhlPKL",
+      "name": "Berzerk",
+      "popularity": 41,
+      "duration_ms": 238746,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Rap God": {
+      "id": "1eKZjOja6i7iKS7N2Bzj8D",
+      "name": "Rap God",
+      "popularity": 41,
+      "duration_ms": 363521,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Brainless": {
+      "id": "7bduXtI62rKp25DkU0092J",
+      "name": "Brainless",
+      "popularity": 35,
+      "duration_ms": 286525,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Stronger Than I Was": {
+      "id": "78bmr5QI4GvyDbGGnaa4WP",
+      "name": "Stronger Than I Was",
+      "popularity": 33,
+      "duration_ms": 336519,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "The Monster": {
+      "id": "00bLSnliElWSOs1Ybt9dZm",
+      "name": "The Monster",
+      "popularity": 48,
+      "duration_ms": 250188,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "So Far...": {
+      "id": "6npBv8PhiZH8l6g4YPclhh",
+      "name": "So Far...",
+      "popularity": 33,
+      "duration_ms": 317580,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Love Game": {
+      "id": "6HPH4AuWHXbTX2uiGWjb3v",
+      "name": "Love Game",
+      "popularity": 36,
+      "duration_ms": 296953,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Headlights": {
+      "id": "646BWucPUyiqL1kgN3jOll",
+      "name": "Headlights",
+      "popularity": 35,
+      "duration_ms": 343032,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Evil Twin": {
+      "id": "4o8k31gvFXwsuJT08prT7N",
+      "name": "Evil Twin",
+      "popularity": 32,
+      "duration_ms": 356846,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Baby": {
+      "id": "6Jiugs1FQWhP13yxnke3CK",
+      "name": "Baby",
+      "popularity": 31,
+      "duration_ms": 263358,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Desperation": {
+      "id": "2wWoQSkztkPRfOVja8KKse",
+      "name": "Desperation",
+      "popularity": 31,
+      "duration_ms": 236658,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Groundhog Day": {
+      "id": "6jReB7746zm66rQtNETHuT",
+      "name": "Groundhog Day",
+      "popularity": 31,
+      "duration_ms": 293423,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Beautiful Pain": {
+      "id": "4pQXrA1W9QMBxCEG1KnrNJ",
+      "name": "Beautiful Pain",
+      "popularity": 39,
+      "duration_ms": 265025,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Wicked Ways": {
+      "id": "0uLvdlcwdmRTRVSZ89Vuxr",
+      "name": "Wicked Ways",
+      "popularity": 33,
+      "duration_ms": 390555,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Don't Front": {
+      "id": "1fa7bRXO9pZI8kkLZVZywf",
+      "name": "Don't Front",
+      "popularity": 39,
+      "duration_ms": 284506,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Survival - Instrumental": {
+      "id": "6igJzslHAWnb4IpJiltPCq",
+      "name": "Survival - Instrumental",
+      "popularity": 26,
+      "duration_ms": 272295,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Berzerk - Instrumental": {
+      "id": "6hJp6uo0z0Stoxo2wVv6P3",
+      "name": "Berzerk - Instrumental",
+      "popularity": 28,
+      "duration_ms": 237964,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "The Monster - Instrumental": {
+      "id": "4LOAj1UJRiC2kbWbHDa2Bg",
+      "name": "The Monster - Instrumental",
+      "popularity": 30,
+      "duration_ms": 249560,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Rap God - Instrumental": {
+      "id": "1maoZkFKjnUTePupcoJh16",
+      "name": "Rap God - Instrumental",
+      "popularity": 31,
+      "duration_ms": 366206,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    },
+    "Headlights - Instrumental": {
+      "id": "0So9tFljUVEzxMHA7EPni3",
+      "name": "Headlights - Instrumental",
+      "popularity": 25,
+      "duration_ms": 350607,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Expanded Edition)",
+      "release_date": "2023-11-03"
+    }
+  },
+  "Curtain Call 2": {
+    "Godzilla (feat. Juice WRLD)": {
+      "id": "1IiOIBsOQrQvcge0HiwF90",
+      "name": "Godzilla (feat. Juice WRLD)",
+      "popularity": 45,
+      "duration_ms": 210800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Lucky You (feat. Joyner Lucas)": {
+      "id": "3Rr8Mew8NQSdxKsjkAhIrD",
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "popularity": 41,
+      "duration_ms": 246000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Lighters": {
+      "id": "6h5hNqTZRLlcRcFWsK6XhW",
+      "name": "Lighters",
+      "popularity": 47,
+      "duration_ms": 303800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Gnat": {
+      "id": "5Dl3rpoBEgHKctcUt5SZGC",
+      "name": "Gnat",
+      "popularity": 39,
+      "duration_ms": 230620,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Cinderella Man": {
+      "id": "5eePARgaJdjj41WMgvctZE",
+      "name": "Cinderella Man",
+      "popularity": 39,
+      "duration_ms": 279002,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Walk On Water (feat. Beyoncé)": {
+      "id": "4rlus6KXkBaDTxMZshmyrl",
+      "name": "Walk On Water (feat. Beyoncé)",
+      "popularity": 35,
+      "duration_ms": 297864,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Rap God": {
+      "id": "14Tuu2CobiHxebbrLgDQ3K",
+      "name": "Rap God",
+      "popularity": 42,
+      "duration_ms": 363521,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Love The Way You Lie (feat. Rihanna)": {
+      "id": "6bzuCE27mlZKc9xXljntD6",
+      "name": "Love The Way You Lie (feat. Rihanna)",
+      "popularity": 44,
+      "duration_ms": 263321,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Won't Back Down (feat. P!nk)": {
+      "id": "2xNdwhGTRrzhO4ikGQ6Qyy",
+      "name": "Won't Back Down (feat. P!nk)",
+      "popularity": 38,
+      "duration_ms": 265916,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Higher": {
+      "id": "2HCqVEz6R2FWiqoCSATZxC",
+      "name": "Higher",
+      "popularity": 38,
+      "duration_ms": 223491,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Berzerk": {
+      "id": "5h1DxwV02KWeKHIbUz2Wml",
+      "name": "Berzerk",
+      "popularity": 39,
+      "duration_ms": 237225,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Not Afraid": {
+      "id": "6hcWB3v2cx7glirxlZI7a2",
+      "name": "Not Afraid",
+      "popularity": 43,
+      "duration_ms": 249266,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "From The D 2 The LBC (with Snoop Dogg)": {
+      "id": "6CPAznSrkDmiPBgLXoi00f",
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "popularity": 51,
+      "duration_ms": 213745,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Nowhere Fast (feat. Kehlani)": {
+      "id": "31mrcJ0tBECurR7v0G9QvC",
+      "name": "Nowhere Fast (feat. Kehlani)",
+      "popularity": 35,
+      "duration_ms": 264275,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Fall": {
+      "id": "3I8qCQFq4X5OKbD44QIuaC",
+      "name": "Fall",
+      "popularity": 38,
+      "duration_ms": 262864,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Phenomenal": {
+      "id": "5lyWuTW3zjzc9o9oeiAgrM",
+      "name": "Phenomenal",
+      "popularity": 50,
+      "duration_ms": 281156,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Fast Lane": {
+      "id": "1KGIQtjrufTLVNC3Cn5l9w",
+      "name": "Fast Lane",
+      "popularity": 40,
+      "duration_ms": 249680,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "You’re Never Over": {
+      "id": "1dOYMayZoOHTRd8W42xHDc",
+      "name": "You’re Never Over",
+      "popularity": 34,
+      "duration_ms": 305680,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "3 a.m.": {
+      "id": "3YSWpxmMuPMadjfmgKAFjQ",
+      "name": "3 a.m.",
+      "popularity": 36,
+      "duration_ms": 319906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Space Bound": {
+      "id": "7ni7Ippya63YSQN6SLIHaA",
+      "name": "Space Bound",
+      "popularity": 40,
+      "duration_ms": 278133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Beautiful": {
+      "id": "0MmdEq5dpustYFqS4mp3QT",
+      "name": "Beautiful",
+      "popularity": 41,
+      "duration_ms": 392813,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "The Monster (feat. Rihanna)": {
+      "id": "4CpZvP1Q66mXPhA3eWoDKB",
+      "name": "The Monster (feat. Rihanna)",
+      "popularity": 45,
+      "duration_ms": 250160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Venom - Music From The Motion Picture": {
+      "id": "1nAs7HBLtllZrOlQvy6fpa",
+      "name": "Venom - Music From The Motion Picture",
+      "popularity": 41,
+      "duration_ms": 264733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Crack A Bottle (feat. Dr. Dre & 50 Cent)": {
+      "id": "0ltIb83VBPvnGDKg7axXej",
+      "name": "Crack A Bottle (feat. Dr. Dre & 50 Cent)",
+      "popularity": 50,
+      "duration_ms": 297173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Is This Love ('09) (feat. 50 Cent)": {
+      "id": "7rK0iM6jwuo1oizdx8suQA",
+      "name": "Is This Love ('09) (feat. 50 Cent)",
+      "popularity": 56,
+      "duration_ms": 212013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "River (feat. Ed Sheeran)": {
+      "id": "1wBSLonFSIZvySNhXOjPKm",
+      "name": "River (feat. Ed Sheeran)",
+      "popularity": 41,
+      "duration_ms": 223733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Survival": {
+      "id": "04f6H0kqPC1v2yTWVXa3Y6",
+      "name": "Survival",
+      "popularity": 35,
+      "duration_ms": 271933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Best Friend": {
+      "id": "6GIBsRZT9Uv9W07pVJ47Nj",
+      "name": "Best Friend",
+      "popularity": 36,
+      "duration_ms": 310560,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Darkness": {
+      "id": "48aI5wAluvSrq55EAR329i",
+      "name": "Darkness",
+      "popularity": 33,
+      "duration_ms": 338493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Kings Never Die (feat. Gwen Stefani)": {
+      "id": "3FLPAAlQNb570TtFQ50RwR",
+      "name": "Kings Never Die (feat. Gwen Stefani)",
+      "popularity": 55,
+      "duration_ms": 297013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "No Love (feat. Lil Wayne)": {
+      "id": "74lo85x5FUL8Wyc2ur9jAE",
+      "name": "No Love (feat. Lil Wayne)",
+      "popularity": 42,
+      "duration_ms": 299480,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Headlights (feat. Nate Ruess)": {
+      "id": "6hBGIHTjFq48UkjeloBDAs",
+      "name": "Headlights (feat. Nate Ruess)",
+      "popularity": 36,
+      "duration_ms": 343000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS": {
+      "id": "12aZLwY2ZTBKZxrEq0MVjw",
+      "name": "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS",
+      "popularity": 44,
+      "duration_ms": 192186,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Farewell": {
+      "id": "0KnqKa079nkk6qbWufYar0",
+      "name": "Farewell",
+      "popularity": 34,
+      "duration_ms": 252360,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    },
+    "Rap God - Mr. Cii Remix": {
+      "id": "1p8tL0q77EnKkSFssFsXNu",
+      "name": "Rap God - Mr. Cii Remix",
+      "popularity": 38,
+      "duration_ms": 375983,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Curtain Call 2",
+      "release_date": "2022-08-05"
+    }
+  },
+  "The Eminem Show (Expanded Edition)": {
+    "Curtains Up - Skit": {
+      "id": "16bZ4F7gikXyMYhlDJpGDd",
+      "name": "Curtains Up - Skit",
+      "popularity": 4,
+      "duration_ms": 29826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "White America": {
+      "id": "7HUQjZDqbet6uQW1p3EDGc",
+      "name": "White America",
+      "popularity": 39,
+      "duration_ms": 324546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Business": {
+      "id": "6sWiC5rpM1o3rnjCgd0hEG",
+      "name": "Business",
+      "popularity": 38,
+      "duration_ms": 251720,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Cleanin' Out My Closet": {
+      "id": "6XK173kEu52iupeIqOnp41",
+      "name": "Cleanin' Out My Closet",
+      "popularity": 40,
+      "duration_ms": 297840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Square Dance": {
+      "id": "10WTBqxaEVRDwbIaZB1jpr",
+      "name": "Square Dance",
+      "popularity": 35,
+      "duration_ms": 323720,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "The Kiss - Skit": {
+      "id": "2eNapbICAkn6d1MUds2Epk",
+      "name": "The Kiss - Skit",
+      "popularity": 28,
+      "duration_ms": 75920,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Soldier": {
+      "id": "5EsHoPnPa7kUrWs4z59woh",
+      "name": "Soldier",
+      "popularity": 38,
+      "duration_ms": 226213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Say Goodbye Hollywood": {
+      "id": "1jOLnpp2wkAL0jhasidwFi",
+      "name": "Say Goodbye Hollywood",
+      "popularity": 33,
+      "duration_ms": 272840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Drips": {
+      "id": "0TcX5vH9A3glxz0ihSwTuV",
+      "name": "Drips",
+      "popularity": 32,
+      "duration_ms": 285640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Without Me": {
+      "id": "2w3ZAK00v15FMnJpyFN4GY",
+      "name": "Without Me",
+      "popularity": 43,
+      "duration_ms": 290320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Paul Rosenberg - Skit": {
+      "id": "4X0x2aqi5aSWllbRarGsCr",
+      "name": "Paul Rosenberg - Skit",
+      "popularity": 1,
+      "duration_ms": 22746,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Sing For The Moment": {
+      "id": "2BeoIEbdG1kOWYKQhNl4dX",
+      "name": "Sing For The Moment",
+      "popularity": 39,
+      "duration_ms": 339546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Superman": {
+      "id": "0WO99YVSgvRzdfLLlSZIEA",
+      "name": "Superman",
+      "popularity": 42,
+      "duration_ms": 350320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Hailie's Song": {
+      "id": "5GYJORR9r5qCvd9Tvxu9Uf",
+      "name": "Hailie's Song",
+      "popularity": 36,
+      "duration_ms": 320640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Steve Berman - Skit": {
+      "id": "3cI0U8imJTw40fAWsptTA7",
+      "name": "Steve Berman - Skit",
+      "popularity": 26,
+      "duration_ms": 33106,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "When The Music Stops": {
+      "id": "0leUBbACaWsSQh2so3CxV8",
+      "name": "When The Music Stops",
+      "popularity": 34,
+      "duration_ms": 269013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Say What You Say": {
+      "id": "4jWWwleHhTmnrpz5nJsPOO",
+      "name": "Say What You Say",
+      "popularity": 32,
+      "duration_ms": 309893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Till I Collapse": {
+      "id": "5kgYeVd1ya275wfmxvB0Su",
+      "name": "Till I Collapse",
+      "popularity": 41,
+      "duration_ms": 297786,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "My Dad's Gone Crazy": {
+      "id": "1npHUb08QlSkEn3GZPJczm",
+      "name": "My Dad's Gone Crazy",
+      "popularity": 35,
+      "duration_ms": 267013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Curtains Close": {
+      "id": "6i0YzgoYTU5mZ44fbjqPAi",
+      "name": "Curtains Close",
+      "popularity": 25,
+      "duration_ms": 61866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Stimulate": {
+      "id": "3OhFdIWYwUJNBQFgdQte8m",
+      "name": "Stimulate",
+      "popularity": 42,
+      "duration_ms": 303773,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "The Conspiracy Freestyle": {
+      "id": "5IVljeqgE3kofFOApoHu4b",
+      "name": "The Conspiracy Freestyle",
+      "popularity": 39,
+      "duration_ms": 170687,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Bump Heads": {
+      "id": "4OYGHze5MiMkgozardIRxU",
+      "name": "Bump Heads",
+      "popularity": 62,
+      "duration_ms": 281457,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Jimmy, Brian and Mike": {
+      "id": "7wtDXxRShBmxJAeXzE4H3p",
+      "name": "Jimmy, Brian and Mike",
+      "popularity": 45,
+      "duration_ms": 201563,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Freestyle #1 - Live From Tramps, New York / 1999": {
+      "id": "0S4XAxm0QJqrFGhcNSYXWL",
+      "name": "Freestyle #1 - Live From Tramps, New York / 1999",
+      "popularity": 28,
+      "duration_ms": 77721,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Brain Damage - Live From Tramps, New York / 1999": {
+      "id": "572Wp0QH0QrDPlDcr4MxjB",
+      "name": "Brain Damage - Live From Tramps, New York / 1999",
+      "popularity": 24,
+      "duration_ms": 84561,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Freestyle #2 - Live From Tramps, New York / 1999": {
+      "id": "0xsyR3l1kcaehuJ7vqKWA1",
+      "name": "Freestyle #2 - Live From Tramps, New York / 1999",
+      "popularity": 25,
+      "duration_ms": 52503,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Just Don't Give A Fuck - Live From Tramps, New York / 1999": {
+      "id": "62PxBBADdlnwaEEwYrna39",
+      "name": "Just Don't Give A Fuck - Live From Tramps, New York / 1999",
+      "popularity": 23,
+      "duration_ms": 195808,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "The Way I Am - Live From Fuji Rock Festival, Japan / 2001": {
+      "id": "1889HydyXhK7VV9IHdtfWa",
+      "name": "The Way I Am - Live From Fuji Rock Festival, Japan / 2001",
+      "popularity": 28,
+      "duration_ms": 223291,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "The Real Slim Shady - Live From Fuji Rock Festival, Japan / 2001": {
+      "id": "76AUMDyirWy5HZI3fv9HQe",
+      "name": "The Real Slim Shady - Live From Fuji Rock Festival, Japan / 2001",
+      "popularity": 26,
+      "duration_ms": 285368,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Business - Instrumental": {
+      "id": "6WGeiZ9db2xh7IpW7xtwFv",
+      "name": "Business - Instrumental",
+      "popularity": 26,
+      "duration_ms": 251807,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Cleanin' Out My Closet - Instrumental": {
+      "id": "0YBZDNHIbqesGYwaito2A1",
+      "name": "Cleanin' Out My Closet - Instrumental",
+      "popularity": 30,
+      "duration_ms": 342253,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Square Dance - Instrumental": {
+      "id": "2XKuSLwFIfs5IE8mJn6tOr",
+      "name": "Square Dance - Instrumental",
+      "popularity": 24,
+      "duration_ms": 377696,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Without Me - Instrumental": {
+      "id": "5xIM3qK1BXXJuTq9srJWaL",
+      "name": "Without Me - Instrumental",
+      "popularity": 37,
+      "duration_ms": 288240,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Sing For The Moment - Instrumental": {
+      "id": "62E1nj73V6yhWqHPJZ0gv1",
+      "name": "Sing For The Moment - Instrumental",
+      "popularity": 30,
+      "duration_ms": 383854,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Superman - Instrumental": {
+      "id": "4JZsOwl781NfirgQwQJbFP",
+      "name": "Superman - Instrumental",
+      "popularity": 39,
+      "duration_ms": 422379,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Say What You Say - Instrumental": {
+      "id": "3WMfjJs4vctRqEX4YomexC",
+      "name": "Say What You Say - Instrumental",
+      "popularity": 24,
+      "duration_ms": 306290,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    },
+    "Till I Collapse - Instrumental": {
+      "id": "7647ajOCyJv1iLU7VIJxBD",
+      "name": "Till I Collapse - Instrumental",
+      "popularity": 35,
+      "duration_ms": 345102,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Eminem Show (Expanded Edition)",
+      "release_date": "2022-05-26"
+    }
+  },
+  "Music To Be Murdered By - Side B (Deluxe Edition)": {
+    "Alfred - Intro": {
+      "id": "1sv41rYgHhPWdyzwk5K9zy",
+      "name": "Alfred - Intro",
+      "popularity": 2,
+      "duration_ms": 17074,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Black Magic (feat. Skylar Grey)": {
+      "id": "50le2HSqQAIqB4BGD4cE9e",
+      "name": "Black Magic (feat. Skylar Grey)",
+      "popularity": 53,
+      "duration_ms": 174863,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Alfred’s Theme": {
+      "id": "0uAkm1iQLrzweZ4U1iXy6w",
+      "name": "Alfred’s Theme",
+      "popularity": 51,
+      "duration_ms": 339345,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Tone Deaf": {
+      "id": "1cEUi8QulMj1xgrPwwGC2p",
+      "name": "Tone Deaf",
+      "popularity": 53,
+      "duration_ms": 290136,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Book of Rhymes (feat. DJ Premier)": {
+      "id": "08ir631EiCA7xIms7JDp15",
+      "name": "Book of Rhymes (feat. DJ Premier)",
+      "popularity": 51,
+      "duration_ms": 289914,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Favorite Bitch (feat. Ty Dolla $ign)": {
+      "id": "2KBRNUt33CrlaFPEz4bQYs",
+      "name": "Favorite Bitch (feat. Ty Dolla $ign)",
+      "popularity": 47,
+      "duration_ms": 236719,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Guns Blazing (feat. Dr. Dre & Sly Pyper)": {
+      "id": "3WpHqtFUwzIQBsV9YC5iNc",
+      "name": "Guns Blazing (feat. Dr. Dre & Sly Pyper)",
+      "popularity": 50,
+      "duration_ms": 196180,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Gnat": {
+      "id": "6cS9PmLky2NhLOhpIsUlow",
+      "name": "Gnat",
+      "popularity": 59,
+      "duration_ms": 224656,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Higher": {
+      "id": "3eMsgWDRq5dKl5SBTYGv2J",
+      "name": "Higher",
+      "popularity": 62,
+      "duration_ms": 222036,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "These Demons (feat. MAJ)": {
+      "id": "086LXfSk4U5XEALardCE7k",
+      "name": "These Demons (feat. MAJ)",
+      "popularity": 49,
+      "duration_ms": 207320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Key - Skit": {
+      "id": "7yYc2nzLiTwajUOj3NGr9y",
+      "name": "Key - Skit",
+      "popularity": 38,
+      "duration_ms": 57950,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "She Loves Me": {
+      "id": "0BUFqsMsqAmKQPhLBXnmv7",
+      "name": "She Loves Me",
+      "popularity": 46,
+      "duration_ms": 204521,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Killer": {
+      "id": "0FLIBDpU2S5bb6TfMB4NuQ",
+      "name": "Killer",
+      "popularity": 53,
+      "duration_ms": 195008,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Zeus (feat. White Gold)": {
+      "id": "2lPE6W6ONJKmBE6hLjpIYo",
+      "name": "Zeus (feat. White Gold)",
+      "popularity": 60,
+      "duration_ms": 230398,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Thus Far - Interlude": {
+      "id": "435kMcZJuXJJwKelsDjP4R",
+      "name": "Thus Far - Interlude",
+      "popularity": 1,
+      "duration_ms": 16355,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Discombobulated": {
+      "id": "1oHXeD1gQQCQUYHeHp2HMU",
+      "name": "Discombobulated",
+      "popularity": 50,
+      "duration_ms": 252578,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Premonition - Intro": {
+      "id": "6rvsIniNCo4hDJSE63hR1w",
+      "name": "Premonition - Intro",
+      "popularity": 39,
+      "duration_ms": 173893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Unaccommodating (feat. Young M.A)": {
+      "id": "6U6XkwUEXvKT5hHSSLKxRn",
+      "name": "Unaccommodating (feat. Young M.A)",
+      "popularity": 41,
+      "duration_ms": 216600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "You Gon’ Learn (feat. Royce Da 5'9\" & White Gold)": {
+      "id": "33xM3SLxNLpZxbvxOzBbew",
+      "name": "You Gon’ Learn (feat. Royce Da 5'9\" & White Gold)",
+      "popularity": 43,
+      "duration_ms": 234653,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Alfred - Interlude": {
+      "id": "5TEQ8aQm7SqtCRDGW2Bkoq",
+      "name": "Alfred - Interlude",
+      "popularity": 31,
+      "duration_ms": 30133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Those Kinda Nights (feat. Ed Sheeran)": {
+      "id": "0GRzZ2o5LtYDEOUNjbzTUa",
+      "name": "Those Kinda Nights (feat. Ed Sheeran)",
+      "popularity": 41,
+      "duration_ms": 177693,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "In Too Deep": {
+      "id": "1Fcl0NpPPx7YCUSmQFRUEe",
+      "name": "In Too Deep",
+      "popularity": 39,
+      "duration_ms": 194706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Godzilla (feat. Juice WRLD)": {
+      "id": "4rTlPsga6T8yiHGOvZAPhJ",
+      "name": "Godzilla (feat. Juice WRLD)",
+      "popularity": 49,
+      "duration_ms": 210800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Darkness": {
+      "id": "5Oj3j0oqHPbK4KdizrFLP6",
+      "name": "Darkness",
+      "popularity": 40,
+      "duration_ms": 337146,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Leaving Heaven (feat. Skylar Grey)": {
+      "id": "02oJPSOD543viMH6d5VZkM",
+      "name": "Leaving Heaven (feat. Skylar Grey)",
+      "popularity": 41,
+      "duration_ms": 265946,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)": {
+      "id": "6JyvP9BYLtIDXzjZLMNYTR",
+      "name": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "popularity": 37,
+      "duration_ms": 286960,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Stepdad - Intro": {
+      "id": "6s76kkSLgFVyAwKKaW7spV",
+      "name": "Stepdad - Intro",
+      "popularity": 1,
+      "duration_ms": 15160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Stepdad": {
+      "id": "7jHJpWa5n7MXwnPF8vA9pE",
+      "name": "Stepdad",
+      "popularity": 38,
+      "duration_ms": 213413,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Marsh": {
+      "id": "1qFip2ddjfGlKkXDhfBnBr",
+      "name": "Marsh",
+      "popularity": 39,
+      "duration_ms": 200573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Never Love Again": {
+      "id": "6M0R8YHdrWpVkCtwIsWOJn",
+      "name": "Never Love Again",
+      "popularity": 42,
+      "duration_ms": 177546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Little Engine": {
+      "id": "3pP03wsvFu1LADWt7bRYBK",
+      "name": "Little Engine",
+      "popularity": 39,
+      "duration_ms": 177293,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Lock It Up (feat. Anderson .Paak)": {
+      "id": "5TIFb333qPwHTistaz8hdH",
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "popularity": 41,
+      "duration_ms": 170226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Farewell": {
+      "id": "7xeDETVgMCoPkHU3dXtN9x",
+      "name": "Farewell",
+      "popularity": 39,
+      "duration_ms": 247733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "No Regrets (feat. Don Toliver)": {
+      "id": "73HqmB8qV8AsPUWFPjt6E7",
+      "name": "No Regrets (feat. Don Toliver)",
+      "popularity": 41,
+      "duration_ms": 200946,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)": {
+      "id": "7pEDNYd1Lf4xudWGrtVH8b",
+      "name": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+      "popularity": 39,
+      "duration_ms": 303000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    },
+    "Alfred - Outro": {
+      "id": "0UtAEonU5MhbGljzcaa5Kx",
+      "name": "Alfred - Outro",
+      "popularity": 31,
+      "duration_ms": 39200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By - Side B (Deluxe Edition)",
+      "release_date": "2020-12-18"
+    }
+  },
+  "Music To Be Murdered By": {
+    "Premonition - Intro": {
+      "id": "7ccTcabbJlCJiIqtrSSwBk",
+      "name": "Premonition - Intro",
+      "popularity": 48,
+      "duration_ms": 173893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Unaccommodating (feat. Young M.A)": {
+      "id": "0q2vG0UVuy6ajjcpkQHdZM",
+      "name": "Unaccommodating (feat. Young M.A)",
+      "popularity": 56,
+      "duration_ms": 216600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "You Gon’ Learn (feat. Royce Da 5'9\" & White Gold)": {
+      "id": "0GQ5bFTVFFKpwNPc7KwQnB",
+      "name": "You Gon’ Learn (feat. Royce Da 5'9\" & White Gold)",
+      "popularity": 58,
+      "duration_ms": 234653,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Alfred - Interlude": {
+      "id": "4EmunTy7kNBYQivOa8F6b8",
+      "name": "Alfred - Interlude",
+      "popularity": 40,
+      "duration_ms": 30133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Those Kinda Nights (feat. Ed Sheeran)": {
+      "id": "0VSzREd1OjEWJ9tXoFHRQH",
+      "name": "Those Kinda Nights (feat. Ed Sheeran)",
+      "popularity": 59,
+      "duration_ms": 177693,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "In Too Deep": {
+      "id": "7Dj2wqPYXfSRFwa6qyOztr",
+      "name": "In Too Deep",
+      "popularity": 53,
+      "duration_ms": 194706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Godzilla (feat. Juice WRLD)": {
+      "id": "7FIWs0pqAYbP91WWM0vlTQ",
+      "name": "Godzilla (feat. Juice WRLD)",
+      "popularity": 80,
+      "duration_ms": 210800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Darkness": {
+      "id": "5SiZJoLXp3WOl3J4C8IK0d",
+      "name": "Darkness",
+      "popularity": 56,
+      "duration_ms": 337146,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Leaving Heaven (feat. Skylar Grey)": {
+      "id": "5CpsIb7SMFHjmAG8RvIWfq",
+      "name": "Leaving Heaven (feat. Skylar Grey)",
+      "popularity": 56,
+      "duration_ms": 265946,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)": {
+      "id": "5mZXWEH2eh8zMZGCxT5aW0",
+      "name": "Yah Yah (feat. Royce Da 5'9\", Black Thought, Q-Tip & Denaun)",
+      "popularity": 52,
+      "duration_ms": 286960,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Stepdad - Intro": {
+      "id": "2d3fdQ6OxmUIsF20eCpcrv",
+      "name": "Stepdad - Intro",
+      "popularity": 2,
+      "duration_ms": 15160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Stepdad": {
+      "id": "3QVHSV8YKYq4L8tI5rnFgj",
+      "name": "Stepdad",
+      "popularity": 50,
+      "duration_ms": 213413,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Marsh": {
+      "id": "34d7sGX6WUqq8f04e7CSNF",
+      "name": "Marsh",
+      "popularity": 51,
+      "duration_ms": 200573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Never Love Again": {
+      "id": "40YbWniIEmqy6s58fYXLUh",
+      "name": "Never Love Again",
+      "popularity": 58,
+      "duration_ms": 177546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Little Engine": {
+      "id": "4qNWEOMyexn7b8Icyk29t9",
+      "name": "Little Engine",
+      "popularity": 48,
+      "duration_ms": 177293,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Lock It Up (feat. Anderson .Paak)": {
+      "id": "1qwMkkRiD5jqLeUUjfgblh",
+      "name": "Lock It Up (feat. Anderson .Paak)",
+      "popularity": 58,
+      "duration_ms": 170226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Farewell": {
+      "id": "74gykWHknHDrg4eMdcmdRq",
+      "name": "Farewell",
+      "popularity": 52,
+      "duration_ms": 247733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "No Regrets (feat. Don Toliver)": {
+      "id": "1lO9CZo6eDrOy0S7khgryG",
+      "name": "No Regrets (feat. Don Toliver)",
+      "popularity": 55,
+      "duration_ms": 200946,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)": {
+      "id": "3CJbxqRQ0JNCqboWDNUUeX",
+      "name": "I Will (feat. KXNG Crooked, Royce Da 5'9\" & Joell Ortiz)",
+      "popularity": 49,
+      "duration_ms": 303000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    },
+    "Alfred - Outro": {
+      "id": "1WAwILvz37MkmZfmGnEXfg",
+      "name": "Alfred - Outro",
+      "popularity": 41,
+      "duration_ms": 39200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Music To Be Murdered By",
+      "release_date": "2020-01-17"
+    }
+  },
+  "Kamikaze": {
+    "The Ringer": {
+      "id": "2jt2WxXMCD4zjACthkJQVE",
+      "name": "The Ringer",
+      "popularity": 62,
+      "duration_ms": 337941,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Greatest": {
+      "id": "2XTquzYQAdT1Hk78bOUwsv",
+      "name": "Greatest",
+      "popularity": 57,
+      "duration_ms": 226937,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Lucky You (feat. Joyner Lucas)": {
+      "id": "60SdxE8apGAxMiRrpbmLY0",
+      "name": "Lucky You (feat. Joyner Lucas)",
+      "popularity": 70,
+      "duration_ms": 244679,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Paul - Skit": {
+      "id": "0Uv5Kp8sEnriJjkX4oLfNI",
+      "name": "Paul - Skit",
+      "popularity": 45,
+      "duration_ms": 35240,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Normal": {
+      "id": "0evt4UZbdhnHtcAnxkm6A1",
+      "name": "Normal",
+      "popularity": 52,
+      "duration_ms": 222477,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Em Calls Paul - Skit": {
+      "id": "6B3zy3LOKHndqsviCr2z15",
+      "name": "Em Calls Paul - Skit",
+      "popularity": 44,
+      "duration_ms": 49023,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Stepping Stone": {
+      "id": "60Z57Wdrn0pEVpHI7d7GAX",
+      "name": "Stepping Stone",
+      "popularity": 53,
+      "duration_ms": 309637,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Not Alike (feat. Royce Da 5'9)": {
+      "id": "28FGV3ORH14MYORd7s5dlU",
+      "name": "Not Alike (feat. Royce Da 5'9)",
+      "popularity": 60,
+      "duration_ms": 288086,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Kamikaze": {
+      "id": "2gsNpSn7VvvJuSrIDfRoYy",
+      "name": "Kamikaze",
+      "popularity": 58,
+      "duration_ms": 216029,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Fall": {
+      "id": "58QhkbaAkLFnn7JwAnAato",
+      "name": "Fall",
+      "popularity": 61,
+      "duration_ms": 262493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Nice Guy (with Jessie Reyez)": {
+      "id": "09FfQO3PqHO4HIJL511Ksi",
+      "name": "Nice Guy (with Jessie Reyez)",
+      "popularity": 49,
+      "duration_ms": 150801,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Good Guy (feat. Jessie Reyez)": {
+      "id": "4g32MdRoqwGKQd3NXIRhpU",
+      "name": "Good Guy (feat. Jessie Reyez)",
+      "popularity": 55,
+      "duration_ms": 142192,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    },
+    "Venom - Music From The Motion Picture": {
+      "id": "2SL6oP2YAEQbqsrkOzRGO4",
+      "name": "Venom - Music From The Motion Picture",
+      "popularity": 70,
+      "duration_ms": 269554,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Kamikaze",
+      "release_date": "2018-08-31"
+    }
+  },
+  "Revival": {
+    "Walk On Water (feat. Beyoncé)": {
+      "id": "7CcoUAtUcYhUfBsmtn0ajO",
+      "name": "Walk On Water (feat. Beyoncé)",
+      "popularity": 52,
+      "duration_ms": 303640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Believe": {
+      "id": "4iTyf5pLZMOR8YrEZgSopo",
+      "name": "Believe",
+      "popularity": 50,
+      "duration_ms": 315346,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Chloraseptic (feat. Phresher)": {
+      "id": "13aKdwvdGjuZDv2OOKyvs7",
+      "name": "Chloraseptic (feat. Phresher)",
+      "popularity": 43,
+      "duration_ms": 301146,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Untouchable": {
+      "id": "6IvespQWGW4USXwexlVKDm",
+      "name": "Untouchable",
+      "popularity": 43,
+      "duration_ms": 370133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "River (feat. Ed Sheeran)": {
+      "id": "1cS0TgbR263ey9jn0MwD2s",
+      "name": "River (feat. Ed Sheeran)",
+      "popularity": 72,
+      "duration_ms": 221013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Remind Me (Intro)": {
+      "id": "2tKJpsRSTxmGAe6TKcstR4",
+      "name": "Remind Me (Intro)",
+      "popularity": 6,
+      "duration_ms": 26333,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Remind Me": {
+      "id": "5uvwJAheJJEkgu88t3Wqf5",
+      "name": "Remind Me",
+      "popularity": 50,
+      "duration_ms": 225173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Revival (Interlude)": {
+      "id": "74dQwVKuCx6aDI2BQ7xW92",
+      "name": "Revival (Interlude)",
+      "popularity": 41,
+      "duration_ms": 51826,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Like Home (feat. Alicia Keys)": {
+      "id": "2Ie7pnF3ZKNTde30TQWlWx",
+      "name": "Like Home (feat. Alicia Keys)",
+      "popularity": 47,
+      "duration_ms": 245466,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Bad Husband (feat. X Ambassadors)": {
+      "id": "3GOjD8hwXOxbTF3apTqSqX",
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "popularity": 48,
+      "duration_ms": 287893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Tragic Endings (feat. Skylar Grey)": {
+      "id": "3xpTHrC1b6dmiLEeM5jO0z",
+      "name": "Tragic Endings (feat. Skylar Grey)",
+      "popularity": 50,
+      "duration_ms": 252026,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Framed": {
+      "id": "4UTpObwAYO67yymOoCeXwS",
+      "name": "Framed",
+      "popularity": 46,
+      "duration_ms": 252960,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Nowhere Fast (feat. Kehlani)": {
+      "id": "4xs1uoAjiWAEecX9yKGSF6",
+      "name": "Nowhere Fast (feat. Kehlani)",
+      "popularity": 49,
+      "duration_ms": 264173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Heat": {
+      "id": "7ntU619k40YVxcRvFNDTNn",
+      "name": "Heat",
+      "popularity": 44,
+      "duration_ms": 250000,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Offended": {
+      "id": "6ogACNVtzSJHzqLhzUegaf",
+      "name": "Offended",
+      "popularity": 46,
+      "duration_ms": 320920,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Need Me (feat. Pink)": {
+      "id": "6B2ERbVUDfIiUNXCWhjzFG",
+      "name": "Need Me (feat. Pink)",
+      "popularity": 46,
+      "duration_ms": 265466,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "In Your Head": {
+      "id": "5qykEZTHAcplCLrynoLRnN",
+      "name": "In Your Head",
+      "popularity": 55,
+      "duration_ms": 182640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Castle": {
+      "id": "0lc70Jh2s1iOMuv9XIEhFy",
+      "name": "Castle",
+      "popularity": 48,
+      "duration_ms": 254760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    },
+    "Arose": {
+      "id": "3fYptFSlH8Xs7Uoybytyrm",
+      "name": "Arose",
+      "popularity": 48,
+      "duration_ms": 274626,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Revival",
+      "release_date": "2017-12-15"
+    }
+  },
+  "The Marshall Mathers LP2 (Deluxe)": {
+    "Bad Guy": {
+      "id": "3IaAYtmN8T0YIYVqnxNnVz",
+      "name": "Bad Guy",
+      "popularity": 51,
+      "duration_ms": 434077,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Parking Lot - Skit": {
+      "id": "7BneCfYRPXAJsEXRdVzEfV",
+      "name": "Parking Lot - Skit",
+      "popularity": 36,
+      "duration_ms": 55337,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Rhyme Or Reason": {
+      "id": "45JxylFwaThjLsRBuzcfoL",
+      "name": "Rhyme Or Reason",
+      "popularity": 48,
+      "duration_ms": 301721,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "So Much Better": {
+      "id": "6dJRP4pXk4SOzWfhfHL3Or",
+      "name": "So Much Better",
+      "popularity": 47,
+      "duration_ms": 261385,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Survival": {
+      "id": "3stOygN0I7CIvkEB2LJGbv",
+      "name": "Survival",
+      "popularity": 60,
+      "duration_ms": 272417,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Legacy": {
+      "id": "1mavQ4WCzXSeL2Dm5DS4GQ",
+      "name": "Legacy",
+      "popularity": 55,
+      "duration_ms": 296269,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Asshole": {
+      "id": "0OOv1XGVVzUgTIzomIHfR0",
+      "name": "Asshole",
+      "popularity": 46,
+      "duration_ms": 288983,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Berzerk": {
+      "id": "6Xk7PnitV9jCRorWt2LiVZ",
+      "name": "Berzerk",
+      "popularity": 64,
+      "duration_ms": 238746,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Rap God": {
+      "id": "6or1bKJiZ06IlK0vFvY75k",
+      "name": "Rap God",
+      "popularity": 74,
+      "duration_ms": 363521,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Brainless": {
+      "id": "5k7wy2Ek7y6kSQ4fER7w0E",
+      "name": "Brainless",
+      "popularity": 48,
+      "duration_ms": 286525,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Stronger Than I Was": {
+      "id": "6MtI49ggHHumUTONlvMQlq",
+      "name": "Stronger Than I Was",
+      "popularity": 48,
+      "duration_ms": 336519,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "The Monster": {
+      "id": "4WgvTITBJbEfCJHguiE7QS",
+      "name": "The Monster",
+      "popularity": 55,
+      "duration_ms": 250188,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "So Far...": {
+      "id": "0nzsCN9rtXdugPoiIT49Kj",
+      "name": "So Far...",
+      "popularity": 46,
+      "duration_ms": 317580,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Love Game": {
+      "id": "0iMN420Q45isZVNlAqzPTW",
+      "name": "Love Game",
+      "popularity": 52,
+      "duration_ms": 296953,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Headlights": {
+      "id": "222dTwr5XeEgAzEtsrQA0R",
+      "name": "Headlights",
+      "popularity": 57,
+      "duration_ms": 343032,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Evil Twin": {
+      "id": "3E1BkJEsRK7VsSNzijilGm",
+      "name": "Evil Twin",
+      "popularity": 44,
+      "duration_ms": 356846,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Baby": {
+      "id": "5sGzBBWPe4YC2YoW7lBYph",
+      "name": "Baby",
+      "popularity": 42,
+      "duration_ms": 263058,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Desperation": {
+      "id": "01zPnSlKCw9WLbY0kvNep0",
+      "name": "Desperation",
+      "popularity": 42,
+      "duration_ms": 236658,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Groundhog Day": {
+      "id": "3fCRPhzGYSd4y6K1qjFcIp",
+      "name": "Groundhog Day",
+      "popularity": 42,
+      "duration_ms": 293423,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Beautiful Pain": {
+      "id": "7hiBhOh4s8G0xmGYBAjyuw",
+      "name": "Beautiful Pain",
+      "popularity": 64,
+      "duration_ms": 265025,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    },
+    "Wicked Ways": {
+      "id": "4dfAUJI1QesmK5HfK9gtYs",
+      "name": "Wicked Ways",
+      "popularity": 47,
+      "duration_ms": 391416,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP2 (Deluxe)",
+      "release_date": "2013-11-05"
+    }
+  },
+  "Recovery (Deluxe Edition)": {
+    "Cold Wind Blows": {
+      "id": "5M6ARntRsBgfp9YINgRHrH",
+      "name": "Cold Wind Blows",
+      "popularity": 41,
+      "duration_ms": 303733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Talkin’ 2 Myself": {
+      "id": "4VrLtrv4X36mvESZm7rjgk",
+      "name": "Talkin’ 2 Myself",
+      "popularity": 40,
+      "duration_ms": 300426,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "On Fire": {
+      "id": "0KYeTrlyM0oF26jI6fWl4C",
+      "name": "On Fire",
+      "popularity": 38,
+      "duration_ms": 213493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Won't Back Down": {
+      "id": "33UW03xr8tD00g67CqzASJ",
+      "name": "Won't Back Down",
+      "popularity": 39,
+      "duration_ms": 265906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "W.T.P.": {
+      "id": "0BbwXzj06GnSL4Ei6jR04h",
+      "name": "W.T.P.",
+      "popularity": 40,
+      "duration_ms": 238173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Going Through Changes": {
+      "id": "1EWpJfYjYcfrbUdRLubzZm",
+      "name": "Going Through Changes",
+      "popularity": 40,
+      "duration_ms": 298893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Not Afraid": {
+      "id": "6l75Og7UcnKVqM14tGhjD6",
+      "name": "Not Afraid",
+      "popularity": 50,
+      "duration_ms": 248133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Seduction": {
+      "id": "2MZVMXJpp6vyz4ideG27Sc",
+      "name": "Seduction",
+      "popularity": 38,
+      "duration_ms": 275400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "No Love": {
+      "id": "6wrujrWK30hnVbpOJYbnQt",
+      "name": "No Love",
+      "popularity": 44,
+      "duration_ms": 299506,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Space Bound": {
+      "id": "35kN1wEPub5ysY8q4fKK2h",
+      "name": "Space Bound",
+      "popularity": 43,
+      "duration_ms": 278640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Cinderella Man": {
+      "id": "2sTjfPFi1UthRs8qwaqMwB",
+      "name": "Cinderella Man",
+      "popularity": 41,
+      "duration_ms": 279013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "25 To Life": {
+      "id": "0s8QjCX2PHZU0OkJAwUAep",
+      "name": "25 To Life",
+      "popularity": 40,
+      "duration_ms": 241586,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "So Bad": {
+      "id": "7F5dzHiZ8EmD8szZtaDZsQ",
+      "name": "So Bad",
+      "popularity": 39,
+      "duration_ms": 325346,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Almost Famous": {
+      "id": "7la9if5FrYIyfuHdiJLfvM",
+      "name": "Almost Famous",
+      "popularity": 37,
+      "duration_ms": 292480,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Love The Way You Lie": {
+      "id": "4SiWJ0xSFdmTb0i379Uwny",
+      "name": "Love The Way You Lie",
+      "popularity": 46,
+      "duration_ms": 263373,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "You’re Never Over": {
+      "id": "2heluxdt59fhduxNDOLcPp",
+      "name": "You’re Never Over",
+      "popularity": 36,
+      "duration_ms": 305680,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Untitled": {
+      "id": "6vra7BbbjVoFJeJk11Dxpm",
+      "name": "Untitled",
+      "popularity": 37,
+      "duration_ms": 194440,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Ridaz": {
+      "id": "4HDPUr4xQ6X6olwAnFHPJ6",
+      "name": "Ridaz",
+      "popularity": 39,
+      "duration_ms": 299933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    },
+    "Session One": {
+      "id": "57Bs2m3Pn2KFGSaTVZimg9",
+      "name": "Session One",
+      "popularity": 41,
+      "duration_ms": 268213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery (Deluxe Edition)",
+      "release_date": "2010-06-21"
+    }
+  },
+  "Recovery": {
+    "Cold Wind Blows": {
+      "id": "3Tj1luJyKPQt7WbrqpJ2Az",
+      "name": "Cold Wind Blows",
+      "popularity": 58,
+      "duration_ms": 303733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Talkin’ 2 Myself": {
+      "id": "66h8hB4In6t725WtAPL23J",
+      "name": "Talkin’ 2 Myself",
+      "popularity": 55,
+      "duration_ms": 300426,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "On Fire": {
+      "id": "6HLZaECJKDjNE0jiGBeqxz",
+      "name": "On Fire",
+      "popularity": 53,
+      "duration_ms": 213493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Won't Back Down": {
+      "id": "7kNlRLC9PEH8nXMVawssMx",
+      "name": "Won't Back Down",
+      "popularity": 57,
+      "duration_ms": 265906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "W.T.P.": {
+      "id": "1ne7JVHEPnoncXzQunQVKW",
+      "name": "W.T.P.",
+      "popularity": 60,
+      "duration_ms": 238173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Going Through Changes": {
+      "id": "0ZqWBTU1EkdVPAMwQgfKiv",
+      "name": "Going Through Changes",
+      "popularity": 57,
+      "duration_ms": 298893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Not Afraid": {
+      "id": "7Ie9W94M7OjPoZVV216Xus",
+      "name": "Not Afraid",
+      "popularity": 79,
+      "duration_ms": 248133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Seduction": {
+      "id": "2V7NoXGv2VDnLeTM7w8SFd",
+      "name": "Seduction",
+      "popularity": 53,
+      "duration_ms": 275400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "No Love": {
+      "id": "7bHT9osSq1rwT2yaImzqCi",
+      "name": "No Love",
+      "popularity": 70,
+      "duration_ms": 299506,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Space Bound": {
+      "id": "0sHW1jXe6Sou3437gJQNGA",
+      "name": "Space Bound",
+      "popularity": 69,
+      "duration_ms": 278640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Cinderella Man": {
+      "id": "4SE4yewyGpOYfxfx59Yjc5",
+      "name": "Cinderella Man",
+      "popularity": 67,
+      "duration_ms": 279013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "25 To Life": {
+      "id": "0dyWQoMOU9oERL6c9vxtRp",
+      "name": "25 To Life",
+      "popularity": 62,
+      "duration_ms": 241586,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "So Bad": {
+      "id": "5Ve4qBYAThGLTOva0hhoTa",
+      "name": "So Bad",
+      "popularity": 58,
+      "duration_ms": 325346,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Almost Famous": {
+      "id": "0ANExk8Iu85oqCgk82rG64",
+      "name": "Almost Famous",
+      "popularity": 51,
+      "duration_ms": 292480,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Love The Way You Lie": {
+      "id": "15JINEqzVMv3SvJTAXAKED",
+      "name": "Love The Way You Lie",
+      "popularity": 85,
+      "duration_ms": 263373,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "You’re Never Over": {
+      "id": "1v54pVfqtSC7KbTu2C2pnM",
+      "name": "You’re Never Over",
+      "popularity": 51,
+      "duration_ms": 305680,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    },
+    "Untitled": {
+      "id": "44ut2KJnt0HQMnUaMlDv9W",
+      "name": "Untitled",
+      "popularity": 52,
+      "duration_ms": 194440,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Recovery",
+      "release_date": "2010-06-18"
+    }
+  },
+  "Relapse: Refill": {
+    "Dr. West - Skit": {
+      "id": "6KEO499uUuvv65wAfOltod",
+      "name": "Dr. West - Skit",
+      "popularity": 37,
+      "duration_ms": 89546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "3 a.m.": {
+      "id": "7Djpvy4lZJNI8rTOVLf1H7",
+      "name": "3 a.m.",
+      "popularity": 51,
+      "duration_ms": 319853,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "My Mom": {
+      "id": "2ruw2Kq8lgyqwemZik9bUg",
+      "name": "My Mom",
+      "popularity": 57,
+      "duration_ms": 319866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Insane": {
+      "id": "6x1stxDsnh4ZlEft29uhlR",
+      "name": "Insane",
+      "popularity": 53,
+      "duration_ms": 181360,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Bagpipes From Baghdad": {
+      "id": "1d5jcRB7Ri9ZA0sFh1Moke",
+      "name": "Bagpipes From Baghdad",
+      "popularity": 54,
+      "duration_ms": 283066,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Hello": {
+      "id": "7wuY9kPzREAC9OR7KScoli",
+      "name": "Hello",
+      "popularity": 51,
+      "duration_ms": 248200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Tonya - Skit": {
+      "id": "1meOg8wHrLsxqD4mwW2YM2",
+      "name": "Tonya - Skit",
+      "popularity": 37,
+      "duration_ms": 42226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Same Song & Dance": {
+      "id": "1NcKKXrDTdCMaiVJkEknqr",
+      "name": "Same Song & Dance",
+      "popularity": 50,
+      "duration_ms": 246640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "We Made You": {
+      "id": "4UMTp91LHhvW33ol9ZQH0Q",
+      "name": "We Made You",
+      "popularity": 62,
+      "duration_ms": 269613,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Medicine Ball": {
+      "id": "2cgZkUVmNJeJZFLEAyh5Qj",
+      "name": "Medicine Ball",
+      "popularity": 47,
+      "duration_ms": 237346,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Paul - Skit": {
+      "id": "3xnIYtj7GS6WTXshdsb1uG",
+      "name": "Paul - Skit",
+      "popularity": 3,
+      "duration_ms": 19400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Stay Wide Awake": {
+      "id": "36YlVLEV1f2qredBFj8o2y",
+      "name": "Stay Wide Awake",
+      "popularity": 52,
+      "duration_ms": 319973,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Old Time's Sake": {
+      "id": "5j6ODxGVhAWeCS49bBKuxz",
+      "name": "Old Time's Sake",
+      "popularity": 50,
+      "duration_ms": 278160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Must Be The Ganja": {
+      "id": "5PVv4YALJruehQKyAlwjfE",
+      "name": "Must Be The Ganja",
+      "popularity": 55,
+      "duration_ms": 242906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Mr. Mathers - Skit": {
+      "id": "3LLEtMyr9j3evyA9xr8WzL",
+      "name": "Mr. Mathers - Skit",
+      "popularity": 36,
+      "duration_ms": 42386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Deja Vu": {
+      "id": "0FDjc7fIiK29BWH45Ka7Vp",
+      "name": "Deja Vu",
+      "popularity": 58,
+      "duration_ms": 283520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Beautiful": {
+      "id": "1HR2CTi0ytRJIcik1QKdOa",
+      "name": "Beautiful",
+      "popularity": 70,
+      "duration_ms": 392826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Crack A Bottle": {
+      "id": "4dK00wCxlqWEeN8BoM1BHT",
+      "name": "Crack A Bottle",
+      "popularity": 69,
+      "duration_ms": 297520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Steve Berman - Skit": {
+      "id": "3EJr3SxeW73TN03mJXdCqG",
+      "name": "Steve Berman - Skit",
+      "popularity": 35,
+      "duration_ms": 89186,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Underground": {
+      "id": "4jpi8FljkAwKFb4ljWuar6",
+      "name": "Underground",
+      "popularity": 47,
+      "duration_ms": 371453,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Forever": {
+      "id": "5UsLjwBaTHBX4ektWIr4XX",
+      "name": "Forever",
+      "popularity": 70,
+      "duration_ms": 357706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Hell Breaks Loose": {
+      "id": "0FXfAepEmqVCMnvOpb8Hoj",
+      "name": "Hell Breaks Loose",
+      "popularity": 45,
+      "duration_ms": 244160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Buffalo Bill": {
+      "id": "3lSQAn6cmWfYfwuTJry44m",
+      "name": "Buffalo Bill",
+      "popularity": 49,
+      "duration_ms": 236840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Elevator": {
+      "id": "26rUU3JZ9JB9OkEuG9mb3e",
+      "name": "Elevator",
+      "popularity": 48,
+      "duration_ms": 292933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Taking My Ball": {
+      "id": "3uO4rUJSyoyeh16KkVdxHy",
+      "name": "Taking My Ball",
+      "popularity": 46,
+      "duration_ms": 302586,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Music Box": {
+      "id": "1PokNDiTBQZgXci6rn2BVE",
+      "name": "Music Box",
+      "popularity": 48,
+      "duration_ms": 304906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Drop The Bomb On 'Em": {
+      "id": "4KxiDMQBLiHZ0efSyvVsKc",
+      "name": "Drop The Bomb On 'Em",
+      "popularity": 47,
+      "duration_ms": 287266,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "My Darling": {
+      "id": "30kY0saQlvZ6tAJWhlDf6h",
+      "name": "My Darling",
+      "popularity": 51,
+      "duration_ms": 319906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    },
+    "Careful What You Wish For": {
+      "id": "4R2ibsoF3A9Tv64DjEfyj9",
+      "name": "Careful What You Wish For",
+      "popularity": 50,
+      "duration_ms": 227186,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse: Refill",
+      "release_date": "2009-05-15"
+    }
+  },
+  "Relapse [Deluxe]": {
+    "Dr. West - Skit": {
+      "id": "4SWBRCv6bElxKD6lTH5rzv",
+      "name": "Dr. West - Skit",
+      "popularity": 29,
+      "duration_ms": 89546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "3 a.m.": {
+      "id": "5aVrh0V1bpJ4YEGXfCD3Yz",
+      "name": "3 a.m.",
+      "popularity": 38,
+      "duration_ms": 319853,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "My Mom": {
+      "id": "0u0k7qQ5F5lzTf5rsnWY8v",
+      "name": "My Mom",
+      "popularity": 44,
+      "duration_ms": 319866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Insane": {
+      "id": "1E87Nt1EgdYm5uYOw8rtlr",
+      "name": "Insane",
+      "popularity": 40,
+      "duration_ms": 181360,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Bagpipes From Baghdad": {
+      "id": "5SyedOgBgBwH41jSHfwBy9",
+      "name": "Bagpipes From Baghdad",
+      "popularity": 43,
+      "duration_ms": 283066,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Hello": {
+      "id": "692nbKgOdtHeLoDC86eif9",
+      "name": "Hello",
+      "popularity": 38,
+      "duration_ms": 248200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Tonya - Skit": {
+      "id": "55coagNhSktoKAOgdNkkys",
+      "name": "Tonya - Skit",
+      "popularity": 29,
+      "duration_ms": 42213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Same Song & Dance": {
+      "id": "0Gfe0uC41xaBjxWoGrxeHT",
+      "name": "Same Song & Dance",
+      "popularity": 37,
+      "duration_ms": 246653,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "We Made You": {
+      "id": "6pVGvA806ARxVIZfcJxWHd",
+      "name": "We Made You",
+      "popularity": 40,
+      "duration_ms": 269613,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Medicine Ball": {
+      "id": "6lwgqGc6R6WyOQ62lkxrH7",
+      "name": "Medicine Ball",
+      "popularity": 35,
+      "duration_ms": 237333,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Paul - Skit": {
+      "id": "18BwdYsOC2qKpBBsnYYYFz",
+      "name": "Paul - Skit",
+      "popularity": 0,
+      "duration_ms": 19413,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Stay Wide Awake": {
+      "id": "4tlXDIipd1IuJHKXW5Z32h",
+      "name": "Stay Wide Awake",
+      "popularity": 38,
+      "duration_ms": 319973,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Old Time's Sake": {
+      "id": "5CwFNjik3qxA7SPNMF093f",
+      "name": "Old Time's Sake",
+      "popularity": 36,
+      "duration_ms": 278160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Must Be The Ganja": {
+      "id": "193EZtB9RHLTl1bFVyyjib",
+      "name": "Must Be The Ganja",
+      "popularity": 38,
+      "duration_ms": 242906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Mr. Mathers - Skit": {
+      "id": "6rkryGkq0HTIwDokX6yeo9",
+      "name": "Mr. Mathers - Skit",
+      "popularity": 28,
+      "duration_ms": 42386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Deja Vu": {
+      "id": "5Mo51IWW49vhISzDLs4CqU",
+      "name": "Deja Vu",
+      "popularity": 40,
+      "duration_ms": 283520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Beautiful": {
+      "id": "6XaqawNmeeScjVLAv4Fx6l",
+      "name": "Beautiful",
+      "popularity": 46,
+      "duration_ms": 392826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Crack A Bottle": {
+      "id": "5ac5PpvqGeVo3oAq26aobC",
+      "name": "Crack A Bottle",
+      "popularity": 45,
+      "duration_ms": 297520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Steve Berman - Skit": {
+      "id": "5VbV6BeCzuT8He3O2679l5",
+      "name": "Steve Berman - Skit",
+      "popularity": 27,
+      "duration_ms": 89186,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Underground": {
+      "id": "33yv9M5Mnh48D4SvoOSeFO",
+      "name": "Underground",
+      "popularity": 35,
+      "duration_ms": 371280,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "My Darling": {
+      "id": "1SM95qTgtKZ20w5sw3OAXc",
+      "name": "My Darling",
+      "popularity": 40,
+      "duration_ms": 320426,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    },
+    "Careful What You Wish For": {
+      "id": "0fmBl9B10gwAna3YN4MnU6",
+      "name": "Careful What You Wish For",
+      "popularity": 40,
+      "duration_ms": 227173,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse [Deluxe]",
+      "release_date": "2009-05-15"
+    }
+  },
+  "Relapse": {
+    "Dr. West - Skit": {
+      "id": "2gCU2bAtDSG0lO0GDu7sQG",
+      "name": "Dr. West - Skit",
+      "popularity": 32,
+      "duration_ms": 89546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "3 a.m.": {
+      "id": "5XPtxe7eKdHt3vWJcUawYj",
+      "name": "3 a.m.",
+      "popularity": 42,
+      "duration_ms": 319853,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "My Mom": {
+      "id": "5XhXt7kcM4rSvo03faDAjY",
+      "name": "My Mom",
+      "popularity": 43,
+      "duration_ms": 319866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Insane": {
+      "id": "5bfTQCLA1asTt8dGiAh564",
+      "name": "Insane",
+      "popularity": 41,
+      "duration_ms": 181360,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Bagpipes From Baghdad": {
+      "id": "7p2IHAUjqctj4AqZ2QKnPF",
+      "name": "Bagpipes From Baghdad",
+      "popularity": 42,
+      "duration_ms": 283066,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Hello": {
+      "id": "6yE9LZDnjotlcr1gACxnmh",
+      "name": "Hello",
+      "popularity": 41,
+      "duration_ms": 248200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Tonya - Skit": {
+      "id": "4P2QrYVoz8zd6NHcD5aERc",
+      "name": "Tonya - Skit",
+      "popularity": 32,
+      "duration_ms": 42226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Same Song & Dance": {
+      "id": "2hxm7xa1RxJ2z7brYTsAYd",
+      "name": "Same Song & Dance",
+      "popularity": 40,
+      "duration_ms": 246640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "We Made You": {
+      "id": "4tUTnCBft9qif7mlm51zFK",
+      "name": "We Made You",
+      "popularity": 44,
+      "duration_ms": 269613,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Medicine Ball": {
+      "id": "2s1nxW4nd7N8bS946VwRaG",
+      "name": "Medicine Ball",
+      "popularity": 38,
+      "duration_ms": 237346,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Paul - Skit": {
+      "id": "7dmktmaBIKmApz9SCBRkAY",
+      "name": "Paul - Skit",
+      "popularity": 1,
+      "duration_ms": 19400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Stay Wide Awake": {
+      "id": "1cpGp4Ow7HaiNfsnDaHcmU",
+      "name": "Stay Wide Awake",
+      "popularity": 41,
+      "duration_ms": 319973,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Old Time's Sake": {
+      "id": "22PJPy3Xf2EruWEeqNEOFH",
+      "name": "Old Time's Sake",
+      "popularity": 39,
+      "duration_ms": 278160,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Must Be The Ganja": {
+      "id": "0g6Wn9gocuOVr72Yaf8UBF",
+      "name": "Must Be The Ganja",
+      "popularity": 41,
+      "duration_ms": 242906,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Mr. Mathers - Skit": {
+      "id": "44W1NE0glj9Yf72y2EtckP",
+      "name": "Mr. Mathers - Skit",
+      "popularity": 31,
+      "duration_ms": 42386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Deja Vu": {
+      "id": "7utC1F1aaearq1u9qS9kQT",
+      "name": "Deja Vu",
+      "popularity": 44,
+      "duration_ms": 283520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Beautiful": {
+      "id": "7DDxxhExUBH53SFJqXDz4i",
+      "name": "Beautiful",
+      "popularity": 48,
+      "duration_ms": 392826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Crack A Bottle": {
+      "id": "360TPORPNBas8DeQueJe67",
+      "name": "Crack A Bottle",
+      "popularity": 45,
+      "duration_ms": 297520,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Steve Berman - Skit": {
+      "id": "4UAhK697YenvIOPd2EY5UZ",
+      "name": "Steve Berman - Skit",
+      "popularity": 30,
+      "duration_ms": 89186,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    },
+    "Underground": {
+      "id": "54iuNoey1HTIM0yNg0CMXj",
+      "name": "Underground",
+      "popularity": 37,
+      "duration_ms": 371453,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Relapse",
+      "release_date": "2009-05-15"
+    }
+  },
+  "Encore (Deluxe Version)": {
+    "Curtains Up": {
+      "id": "6NGRgJjvgUF9V4VXbWgS26",
+      "name": "Curtains Up",
+      "popularity": 42,
+      "duration_ms": 46866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Evil Deeds": {
+      "id": "3bp0Zuc7LMxgjqsQ6q3E8y",
+      "name": "Evil Deeds",
+      "popularity": 54,
+      "duration_ms": 259573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Never Enough": {
+      "id": "5CsDo9j3N4yFZNCN1h9loS",
+      "name": "Never Enough",
+      "popularity": 69,
+      "duration_ms": 159786,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Yellow Brick Road": {
+      "id": "0pMUgJwp0a7Wxypy8xfmMO",
+      "name": "Yellow Brick Road",
+      "popularity": 49,
+      "duration_ms": 346253,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Like Toy Soldiers": {
+      "id": "6CN3e26iQSj1N5lomh0mfO",
+      "name": "Like Toy Soldiers",
+      "popularity": 67,
+      "duration_ms": 296880,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Mosh": {
+      "id": "07EHYORZMFGlBdI5zIB7lp",
+      "name": "Mosh",
+      "popularity": 50,
+      "duration_ms": 317813,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Puke": {
+      "id": "5F94xbz85nE6wfZGHqOMCG",
+      "name": "Puke",
+      "popularity": 54,
+      "duration_ms": 247826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "My 1st Single": {
+      "id": "1dFnMC9NlHVUE4rlT5vr83",
+      "name": "My 1st Single",
+      "popularity": 46,
+      "duration_ms": 302840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Paul - Skit": {
+      "id": "2FPtJP6CQ68hOTHt0OysXC",
+      "name": "Paul - Skit",
+      "popularity": 43,
+      "duration_ms": 32026,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Rain Man": {
+      "id": "2AuU35arXZdYoscOIxHWSc",
+      "name": "Rain Man",
+      "popularity": 54,
+      "duration_ms": 313946,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Big Weenie": {
+      "id": "4dh34dyav8M5jCN3yidn8Z",
+      "name": "Big Weenie",
+      "popularity": 61,
+      "duration_ms": 266933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Em Calls Paul - Skit": {
+      "id": "62c1RhroaeTVV7yGKBIBne",
+      "name": "Em Calls Paul - Skit",
+      "popularity": 38,
+      "duration_ms": 71746,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Just Lose It": {
+      "id": "0qcjuYtMWhBjXg0Xwt5SzS",
+      "name": "Just Lose It",
+      "popularity": 70,
+      "duration_ms": 248680,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Ass Like That": {
+      "id": "4gXdMZkBN1neE9nX6yRALa",
+      "name": "Ass Like That",
+      "popularity": 66,
+      "duration_ms": 265480,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Spend Some Time": {
+      "id": "1mHRciKUBSGQml3mQFGMsf",
+      "name": "Spend Some Time",
+      "popularity": 51,
+      "duration_ms": 310720,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Mockingbird": {
+      "id": "561jH07mF1jHuk7KlaeF0s",
+      "name": "Mockingbird",
+      "popularity": 86,
+      "duration_ms": 250760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Crazy In Love": {
+      "id": "0bCCMwWTaYOcQ4v8EeEYmd",
+      "name": "Crazy In Love",
+      "popularity": 56,
+      "duration_ms": 242306,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "One Shot 2 Shot": {
+      "id": "15ZNcgzsiiSrLQAGzl3le9",
+      "name": "One Shot 2 Shot",
+      "popularity": 57,
+      "duration_ms": 266573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Final Thought - Skit": {
+      "id": "6h3tuNzfvZHyPPCSndsw2u",
+      "name": "Final Thought - Skit",
+      "popularity": 37,
+      "duration_ms": 30200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Encore/Curtains Down": {
+      "id": "2cm5JHPVzXyrWPtIZZi1Gh",
+      "name": "Encore/Curtains Down",
+      "popularity": 51,
+      "duration_ms": 348400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "We As Americans": {
+      "id": "6BdYOvKVbLsNFg674QJbRF",
+      "name": "We As Americans",
+      "popularity": 46,
+      "duration_ms": 276320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Love You More": {
+      "id": "2PFqkLmTU9k5CNLN6jMMmr",
+      "name": "Love You More",
+      "popularity": 48,
+      "duration_ms": 284120,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    },
+    "Ricky Ticky Toc": {
+      "id": "27eOHLIdWzqzZawiRSEi9s",
+      "name": "Ricky Ticky Toc",
+      "popularity": 44,
+      "duration_ms": 169586,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Encore (Deluxe Version)",
+      "release_date": "2004-11-12"
+    }
+  },
+  "The Eminem Show": {
+    "Curtains Up - Skit": {
+      "id": "0ttF21hZCPw2merE3GsHcP",
+      "name": "Curtains Up - Skit",
+      "popularity": 19,
+      "duration_ms": 29826,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "White America": {
+      "id": "15qrWkkYCfmtu1uRpGf48L",
+      "name": "White America",
+      "popularity": 63,
+      "duration_ms": 324546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Business": {
+      "id": "0x60P5taxdI5pcGbqbap6S",
+      "name": "Business",
+      "popularity": 71,
+      "duration_ms": 251720,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Cleanin' Out My Closet": {
+      "id": "7BMO7O7ImjV8HNTH74Tshv",
+      "name": "Cleanin' Out My Closet",
+      "popularity": 73,
+      "duration_ms": 297840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Square Dance": {
+      "id": "27mgDrExPa3obPAYXd3yQg",
+      "name": "Square Dance",
+      "popularity": 61,
+      "duration_ms": 323720,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "The Kiss - Skit": {
+      "id": "2J3CYFUn6eAuHz5S9IKape",
+      "name": "The Kiss - Skit",
+      "popularity": 50,
+      "duration_ms": 75920,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Soldier": {
+      "id": "5QD28FqaM3jTfsqWwvRZwv",
+      "name": "Soldier",
+      "popularity": 64,
+      "duration_ms": 226213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Say Goodbye Hollywood": {
+      "id": "288e3FhmVuCqPmNEfAH0h6",
+      "name": "Say Goodbye Hollywood",
+      "popularity": 58,
+      "duration_ms": 272840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Drips": {
+      "id": "7io19rjxOFu3pGuZgBI6Pk",
+      "name": "Drips",
+      "popularity": 55,
+      "duration_ms": 285640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Without Me": {
+      "id": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "name": "Without Me",
+      "popularity": 87,
+      "duration_ms": 290320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Paul Rosenberg - Skit": {
+      "id": "0EgkVzDidmq4MP57jZFeik",
+      "name": "Paul Rosenberg - Skit",
+      "popularity": 11,
+      "duration_ms": 22746,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Sing For The Moment": {
+      "id": "3CpoeW0cZSDzIRv5z34F87",
+      "name": "Sing For The Moment",
+      "popularity": 75,
+      "duration_ms": 339546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Superman": {
+      "id": "4woTEX1wYOTGDqNXuavlRC",
+      "name": "Superman",
+      "popularity": 82,
+      "duration_ms": 350320,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Hailie's Song": {
+      "id": "6Db8IlZ7YY1pfIjJllejyH",
+      "name": "Hailie's Song",
+      "popularity": 64,
+      "duration_ms": 320640,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Steve Berman - Skit": {
+      "id": "5ZxX55HFfi4aofGTxMp58x",
+      "name": "Steve Berman - Skit",
+      "popularity": 48,
+      "duration_ms": 33106,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "When The Music Stops": {
+      "id": "73qINA7ccO03wxD8nsJalr",
+      "name": "When The Music Stops",
+      "popularity": 61,
+      "duration_ms": 269013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Say What You Say": {
+      "id": "4EQkcrSLF3QdlwNca7sMXY",
+      "name": "Say What You Say",
+      "popularity": 55,
+      "duration_ms": 309893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Till I Collapse": {
+      "id": "4xkOaSrkexMciUUogZKVTS",
+      "name": "Till I Collapse",
+      "popularity": 83,
+      "duration_ms": 297786,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "My Dad's Gone Crazy": {
+      "id": "3F14hbIqy1JKKLTb1mzdYV",
+      "name": "My Dad's Gone Crazy",
+      "popularity": 62,
+      "duration_ms": 267013,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    },
+    "Curtains Close": {
+      "id": "51LeDAMy6nWqKdjVo7jK4j",
+      "name": "Curtains Close",
+      "popularity": 46,
+      "duration_ms": 61866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Eminem Show",
+      "release_date": "2002-05-26"
+    }
+  },
+  "The Marshall Mathers LP": {
+    "The Real Slim Shady - Instrumental": {
+      "id": "0hfBRQVuRT2R8KDwjjir1q",
+      "name": "The Real Slim Shady - Instrumental",
+      "popularity": 41,
+      "duration_ms": 284760,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "The Way I Am - Instrumental": {
+      "id": "1Uafb2YJLkbivgY3PlJlXp",
+      "name": "The Way I Am - Instrumental",
+      "popularity": 32,
+      "duration_ms": 291400,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Stan - Instrumental": {
+      "id": "4tME51EiaLJvxGZExXRdRX",
+      "name": "Stan - Instrumental",
+      "popularity": 37,
+      "duration_ms": 403733,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "The Kids": {
+      "id": "3LZOfhvPNSkRYWFTTSxMvr",
+      "name": "The Kids",
+      "popularity": 40,
+      "duration_ms": 305626,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "The Way I Am - Danny Lohner Remix Version": {
+      "id": "0dWgyJ2naIXzHsw4ze6TYp",
+      "name": "The Way I Am - Danny Lohner Remix Version",
+      "popularity": 35,
+      "duration_ms": 298693,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Public Service Announcement 2000": {
+      "id": "3Murbrz96zx9ngEmlN0bGu",
+      "name": "Public Service Announcement 2000",
+      "popularity": 2,
+      "duration_ms": 25866,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Kill You": {
+      "id": "55tyosB2p2BRx1yEGG0V80",
+      "name": "Kill You",
+      "popularity": 44,
+      "duration_ms": 264400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Stan": {
+      "id": "0AhrTX6TszxuoDjfOSprlz",
+      "name": "Stan",
+      "popularity": 53,
+      "duration_ms": 404106,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Paul - Skit": {
+      "id": "2Kf4t3sxt5OZ0BJxdo7H5L",
+      "name": "Paul - Skit",
+      "popularity": 0,
+      "duration_ms": 10600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Who Knew": {
+      "id": "7fXPWrFoxtEGnoxu67ZjQa",
+      "name": "Who Knew",
+      "popularity": 39,
+      "duration_ms": 227760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Steve Berman": {
+      "id": "5mgTRXPQquTqhRcBZiQXVg",
+      "name": "Steve Berman",
+      "popularity": 31,
+      "duration_ms": 53573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "The Way I Am": {
+      "id": "43cgG8MwilYEmsYvqom2bJ",
+      "name": "The Way I Am",
+      "popularity": 45,
+      "duration_ms": 290426,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "The Real Slim Shady": {
+      "id": "5EvF8OdvwB2CQy9Un7eiiI",
+      "name": "The Real Slim Shady",
+      "popularity": 46,
+      "duration_ms": 284200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Remember Me?": {
+      "id": "5qrlwNK6VkPcCviRWOYVFv",
+      "name": "Remember Me?",
+      "popularity": 36,
+      "duration_ms": 218533,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "I'm Back": {
+      "id": "23pOXfm1f8MYAYdZ5fWqqd",
+      "name": "I'm Back",
+      "popularity": 40,
+      "duration_ms": 309760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Marshall Mathers": {
+      "id": "7n9XPcL4sfqqNNcsNgi1a8",
+      "name": "Marshall Mathers",
+      "popularity": 40,
+      "duration_ms": 320933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Ken Kaniff - Skit": {
+      "id": "7bOavTG3jFHZ9ppyGfdz6O",
+      "name": "Ken Kaniff - Skit",
+      "popularity": 28,
+      "duration_ms": 61800,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Drug Ballad": {
+      "id": "3IUmCs4zwUffG01G7F7iQx",
+      "name": "Drug Ballad",
+      "popularity": 39,
+      "duration_ms": 300266,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Amityville": {
+      "id": "2zUxeDhvav0P5aNIrKT3yr",
+      "name": "Amityville",
+      "popularity": 35,
+      "duration_ms": 254773,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Bitch Please II": {
+      "id": "0NWtAf6HtnfA5KFCaX6Wtz",
+      "name": "Bitch Please II",
+      "popularity": 42,
+      "duration_ms": 288200,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Kim": {
+      "id": "42mXfrjYc29YYIRUjtwuao",
+      "name": "Kim",
+      "popularity": 36,
+      "duration_ms": 377893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Under The Influence": {
+      "id": "4NpIbjh8rOLs4sRTCGUHAM",
+      "name": "Under The Influence",
+      "popularity": 40,
+      "duration_ms": 321666,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    },
+    "Criminal": {
+      "id": "5OxgFpiGktT1kMQxwGa870",
+      "name": "Criminal",
+      "popularity": 39,
+      "duration_ms": 319026,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Marshall Mathers LP",
+      "release_date": "2001-08-20"
+    }
+  },
+  "The Slim Shady LP (Expanded Edition)": {
+    "Public Service Announcement": {
+      "id": "59z8uxWZVFpL2LfZ5C9AzY",
+      "name": "Public Service Announcement",
+      "popularity": 47,
+      "duration_ms": 33093,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "My Name Is": {
+      "id": "0Fv6CfegUbD5Egs0dj8CVB",
+      "name": "My Name Is",
+      "popularity": 58,
+      "duration_ms": 268400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Guilty Conscience": {
+      "id": "2iW8D4Vdy8lrOEBkYEJOzd",
+      "name": "Guilty Conscience",
+      "popularity": 49,
+      "duration_ms": 199333,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Brain Damage": {
+      "id": "7iwK7RjGGJW9jdPj8ny754",
+      "name": "Brain Damage",
+      "popularity": 47,
+      "duration_ms": 226706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Paul - Skit": {
+      "id": "4QB28IqGl9W8sDcIK7eBIW",
+      "name": "Paul - Skit",
+      "popularity": 1,
+      "duration_ms": 15800,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "If I Had": {
+      "id": "6TCfbxgcjQwxCzM4Vmi6kf",
+      "name": "If I Had",
+      "popularity": 45,
+      "duration_ms": 245546,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "'97 Bonnie & Clyde": {
+      "id": "0PG5rPYaf19GiTf05urOBo",
+      "name": "'97 Bonnie & Clyde",
+      "popularity": 43,
+      "duration_ms": 316413,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Bitch - Skit": {
+      "id": "3mqYXWPAteuKuhZmsuQWqV",
+      "name": "Bitch - Skit",
+      "popularity": 4,
+      "duration_ms": 19706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Role Model": {
+      "id": "3zXGMmgIygV00eFxyqmbeO",
+      "name": "Role Model",
+      "popularity": 52,
+      "duration_ms": 205400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Lounge - Skit": {
+      "id": "0X0ClM8jVHU7N0ptHRqi7r",
+      "name": "Lounge - Skit",
+      "popularity": 37,
+      "duration_ms": 46533,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "My Fault": {
+      "id": "59VFQQgqTmL8Rmm7zWECfx",
+      "name": "My Fault",
+      "popularity": 44,
+      "duration_ms": 241600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Ken Kaniff - Skit": {
+      "id": "6MrCccPAByfUy41kvJlUUu",
+      "name": "Ken Kaniff - Skit",
+      "popularity": 36,
+      "duration_ms": 76226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Cum On Everybody": {
+      "id": "6YxWzMtFrGETbAcvqbUiww",
+      "name": "Cum On Everybody",
+      "popularity": 42,
+      "duration_ms": 219280,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Rock Bottom": {
+      "id": "7sKZWN4xVOSb4miTL1vRXx",
+      "name": "Rock Bottom",
+      "popularity": 47,
+      "duration_ms": 214120,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Just Don't Give A Fuck": {
+      "id": "4xFLyM4FkPrh2EOODkwPES",
+      "name": "Just Don't Give A Fuck",
+      "popularity": 48,
+      "duration_ms": 242533,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Soap - Skit": {
+      "id": "6v5THhwG0Of1H0tBnZ7kkw",
+      "name": "Soap - Skit",
+      "popularity": 36,
+      "duration_ms": 34600,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "As The World Turns": {
+      "id": "0pzXfsibHoO6eWDV262G1U",
+      "name": "As The World Turns",
+      "popularity": 44,
+      "duration_ms": 265373,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "I'm Shady": {
+      "id": "2SvgBb7Wxa9ZfeamgGIGZl",
+      "name": "I'm Shady",
+      "popularity": 45,
+      "duration_ms": 211893,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Bad Meets Evil": {
+      "id": "5VqSAZujDWDJkQ11Laf9W1",
+      "name": "Bad Meets Evil",
+      "popularity": 43,
+      "duration_ms": 253133,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Still Don't Give A Fuck": {
+      "id": "39KKZBAPkgKa4nqZBfkHJ5",
+      "name": "Still Don't Give A Fuck",
+      "popularity": 47,
+      "duration_ms": 257493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Hazardous Youth - A Cappella": {
+      "id": "1Rt10mmWpCNEsA4MRpO7o0",
+      "name": "Hazardous Youth - A Cappella",
+      "popularity": 36,
+      "duration_ms": 44040,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Get You Mad": {
+      "id": "3Vh7tuvp5J5jpLrCqAcosU",
+      "name": "Get You Mad",
+      "popularity": 42,
+      "duration_ms": 262213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Greg - A Cappella": {
+      "id": "0je6gk6ukXjHwzeybX6JLv",
+      "name": "Greg - A Cappella",
+      "popularity": 36,
+      "duration_ms": 52546,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Bad Guys Always Die - From \"Wild Wild West\" Soundtrack": {
+      "id": "4KVVy0GeXO03ni8Cv4SWk8",
+      "name": "Bad Guys Always Die - From \"Wild Wild West\" Soundtrack",
+      "popularity": 45,
+      "duration_ms": 279133,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Guilty Conscience - Radio Version": {
+      "id": "48dnzYTt8z03FNvblPWa6C",
+      "name": "Guilty Conscience - Radio Version",
+      "popularity": 37,
+      "duration_ms": 199773,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Guilty Conscience - Instrumental": {
+      "id": "1U2pLtCPZp5i9dLK1cAtJE",
+      "name": "Guilty Conscience - Instrumental",
+      "popularity": 33,
+      "duration_ms": 200880,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Guilty Conscience - A Cappella": {
+      "id": "0rWApdVyBhFFpYxElidwox",
+      "name": "Guilty Conscience - A Cappella",
+      "popularity": 32,
+      "duration_ms": 196653,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "My Name Is - Instrumental": {
+      "id": "5mQNVUP0weaqUx4zJI2whE",
+      "name": "My Name Is - Instrumental",
+      "popularity": 37,
+      "duration_ms": 269173,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Just Don't Give A Fuck - A Cappella": {
+      "id": "64WSrtBF6R2Sdi4peJKOsp",
+      "name": "Just Don't Give A Fuck - A Cappella",
+      "popularity": 33,
+      "duration_ms": 215213,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    },
+    "Just Don't Give A Fuck - Instrumental": {
+      "id": "5fQISkTXrsvl03iykOku34",
+      "name": "Just Don't Give A Fuck - Instrumental",
+      "popularity": 33,
+      "duration_ms": 248186,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP (Expanded Edition)",
+      "release_date": "1999-02-23"
+    }
+  },
+  "The Slim Shady LP": {
+    "Public Service Announcement": {
+      "id": "3GhcNCBIEMyrcpCJ8ccvXr",
+      "name": "Public Service Announcement",
+      "popularity": 42,
+      "duration_ms": 33226,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "My Name Is": {
+      "id": "75IN3CtuZwTHTnZvYM4qnJ",
+      "name": "My Name Is",
+      "popularity": 73,
+      "duration_ms": 268400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Guilty Conscience": {
+      "id": "6da04YB906XonC6IQNC44u",
+      "name": "Guilty Conscience",
+      "popularity": 61,
+      "duration_ms": 199333,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Brain Damage": {
+      "id": "099MPsZhn5HkEUNlpA89rK",
+      "name": "Brain Damage",
+      "popularity": 56,
+      "duration_ms": 226733,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Paul - Skit": {
+      "id": "0AaKi10VdO06R4fkBFBslc",
+      "name": "Paul - Skit",
+      "popularity": 2,
+      "duration_ms": 15840,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "If I Had": {
+      "id": "4Q7UkPYq3NGTwhAMjfeE4a",
+      "name": "If I Had",
+      "popularity": 52,
+      "duration_ms": 245493,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "'97 Bonnie & Clyde": {
+      "id": "6PJiaxg1lFSJFdMJrW7avo",
+      "name": "'97 Bonnie & Clyde",
+      "popularity": 51,
+      "duration_ms": 316400,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Bitch - Skit": {
+      "id": "5OsBkrdyDlnDZ5siaAOtVt",
+      "name": "Bitch - Skit",
+      "popularity": 4,
+      "duration_ms": 19706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Role Model": {
+      "id": "0EtirusGt3LivUmALXSMVe",
+      "name": "Role Model",
+      "popularity": 64,
+      "duration_ms": 205400,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Lounge - Skit": {
+      "id": "1LoEersiNbdCJv96e8KjNk",
+      "name": "Lounge - Skit",
+      "popularity": 41,
+      "duration_ms": 46533,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "My Fault": {
+      "id": "3CNbDbMHxYHxEgrPGf89yc",
+      "name": "My Fault",
+      "popularity": 51,
+      "duration_ms": 241600,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Ken Kaniff - Skit": {
+      "id": "1A6N0uZ1gp5BGU7fv7PUlu",
+      "name": "Ken Kaniff - Skit",
+      "popularity": 40,
+      "duration_ms": 76293,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Cum On Everybody": {
+      "id": "6uXX9OgGchFrr2bq8RgIg6",
+      "name": "Cum On Everybody",
+      "popularity": 48,
+      "duration_ms": 219240,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Rock Bottom": {
+      "id": "3guazByz82uD2zHf8q7As1",
+      "name": "Rock Bottom",
+      "popularity": 56,
+      "duration_ms": 214093,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Just Don't Give A Fuck": {
+      "id": "2MEvYNn2tRvFDAucAtAKVq",
+      "name": "Just Don't Give A Fuck",
+      "popularity": 58,
+      "duration_ms": 242573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Soap - Skit": {
+      "id": "2aXwXcdR1aGCYesbEr2DgV",
+      "name": "Soap - Skit",
+      "popularity": 40,
+      "duration_ms": 34600,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "As The World Turns": {
+      "id": "0TBzphxYIeDLP9DAJUSUbP",
+      "name": "As The World Turns",
+      "popularity": 51,
+      "duration_ms": 265333,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "I'm Shady": {
+      "id": "3j3XiRDNkaUfINMB99hphS",
+      "name": "I'm Shady",
+      "popularity": 48,
+      "duration_ms": 211960,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Bad Meets Evil": {
+      "id": "7kQ0miyexmevMwUDqTomIN",
+      "name": "Bad Meets Evil",
+      "popularity": 49,
+      "duration_ms": 253066,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    },
+    "Still Don't Give A Fuck": {
+      "id": "1F4lm7DxvpNvXfT3cGuJCb",
+      "name": "Still Don't Give A Fuck",
+      "popularity": 56,
+      "duration_ms": 252706,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Slim Shady LP",
+      "release_date": "1999-02-23"
+    }
+  },
+  "Animals (Pt. I) [with Eminem]": {
+    "Animals (Pt. I) [with Eminem]": {
+      "id": "1gcyDDBPLndlG1uzWmbEpu",
+      "name": "Animals (Pt. I) [with Eminem]",
+      "popularity": 48,
+      "duration_ms": 348144,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Animals (Pt. I) [with Eminem]",
+      "release_date": "2025-07-07"
+    }
+  },
+  "Gunz N Smoke (feat. 50 Cent & Eminem)": {
+    "Gunz N Smoke (feat. 50 Cent & Eminem)": {
+      "id": "4YcXfN9Ja7OtzWyA8tdH9h",
+      "name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
+      "popularity": 42,
+      "duration_ms": 213739,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Gunz N Smoke (feat. 50 Cent & Eminem)",
+      "release_date": "2024-12-12"
+    }
+  },
+  "Fuel (feat. WESTSIDE BOOGIE & GRIP) [Shady Edition]": {
+    "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition": {
+      "id": "2By3Bbd6UYQqdhLnkMHZb6",
+      "name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) - Shady Edition",
+      "popularity": 40,
+      "duration_ms": 290422,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Fuel (feat. WESTSIDE BOOGIE & GRIP) [Shady Edition]",
+      "release_date": "2024-09-11"
+    }
+  },
+  "Somebody Save Me (feat. Jelly Roll)": {
+    "Somebody Save Me (feat. Jelly Roll)": {
+      "id": "7Hhyd8Qcm5jMDvj1YCpMhW",
+      "name": "Somebody Save Me (feat. Jelly Roll)",
+      "popularity": 51,
+      "duration_ms": 230199,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Somebody Save Me (feat. Jelly Roll)",
+      "release_date": "2024-07-10"
+    }
+  },
+  "Tobey (feat. Big Sean and BabyTron)": {
+    "Tobey (feat. Big Sean and BabyTron)": {
+      "id": "4KWeGKChLKcnZsj3sIOSkW",
+      "name": "Tobey (feat. Big Sean and BabyTron)",
+      "popularity": 61,
+      "duration_ms": 284892,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Tobey (feat. Big Sean and BabyTron)",
+      "release_date": "2024-07-02"
+    }
+  },
+  "Houdini": {
+    "Houdini": {
+      "id": "2HYFX63wP3otVIvopRS99Z",
+      "name": "Houdini",
+      "popularity": 76,
+      "duration_ms": 227239,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Houdini",
+      "release_date": "2024-05-31"
+    }
+  },
+  "Lace It (with Eminem & benny blanco)": {
+    "Lace It (with Eminem & benny blanco)": {
+      "id": "4qmG24ebshLXtKu9HIShBP",
+      "name": "Lace It (with Eminem & benny blanco)",
+      "popularity": 61,
+      "duration_ms": 217526,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Lace It (with Eminem & benny blanco)",
+      "release_date": "2023-12-16"
+    }
+  },
+  "Realest (with Eminem)": {
+    "Realest (with Eminem)": {
+      "id": "049m5wlslFiYLQuqxrG6QB",
+      "name": "Realest (with Eminem)",
+      "popularity": 51,
+      "duration_ms": 217470,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Realest (with Eminem)",
+      "release_date": "2023-08-04"
+    }
+  },
+  "From The D 2 The LBC (with Snoop Dogg)": {
+    "From The D 2 The LBC (with Snoop Dogg)": {
+      "id": "7My9ca9QEIR8MvIOdIrTWA",
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "popularity": 58,
+      "duration_ms": 215120,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "From The D 2 The LBC (with Snoop Dogg)",
+      "release_date": "2022-06-24"
+    }
+  },
+  "The King and I (feat. CeeLo Green) [From the Original Motion Picture Soundtrack ELVIS]": {
+    "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS": {
+      "id": "4QjbbBQAJ7NiGdlfDPcxag",
+      "name": "The King and I (feat. CeeLo Green) - From the Original Motion Picture Soundtrack ELVIS",
+      "popularity": 43,
+      "duration_ms": 193754,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The King and I (feat. CeeLo Green) [From the Original Motion Picture Soundtrack ELVIS]",
+      "release_date": "2022-06-16"
+    }
+  },
+  "Gospel (with Eminem)": {
+    "Gospel (with Eminem)": {
+      "id": "3a2jFwnts4Cf0OwJbK61SL",
+      "name": "Gospel (with Eminem)",
+      "popularity": 62,
+      "duration_ms": 210027,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Gospel (with Eminem)",
+      "release_date": "2022-02-04"
+    }
+  },
+  "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]": {
+    "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage": {
+      "id": "3r9m79pHykbs4FrCXlq1oO",
+      "name": "Last One Standing (feat. Polo G, Mozzy & Eminem) - From Venom: Let There Be Carnage",
+      "popularity": 44,
+      "duration_ms": 258678,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
+      "release_date": "2021-10-05"
+    },
+    "Venom - Remix": {
+      "id": "6kUaRtXf19fu5IQWjmwsEJ",
+      "name": "Venom - Remix",
+      "popularity": 52,
+      "duration_ms": 261601,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Last One Standing (feat. Polo G, Mozzy & Eminem) [From Venom: Let There Be Carnage]",
+      "release_date": "2021-10-05"
+    }
+  },
+  "Killer (feat. Jack Harlow & Cordae) [Remix]": {
+    "Killer (feat. Jack Harlow & Cordae) - Remix": {
+      "id": "7zl7kehxesNEo2pYkKXTSe",
+      "name": "Killer (feat. Jack Harlow & Cordae) - Remix",
+      "popularity": 62,
+      "duration_ms": 236665,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Killer (feat. Jack Harlow & Cordae) [Remix]",
+      "release_date": "2021-05-28"
+    }
+  },
+  "The Adventures of Moon Man & Slim Shady (with Eminem)": {
+    "The Adventures of Moon Man & Slim Shady (with Eminem)": {
+      "id": "38iBrrbbXyWaSPkmuDNgjZ",
+      "name": "The Adventures of Moon Man & Slim Shady (with Eminem)",
+      "popularity": 54,
+      "duration_ms": 264833,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "The Adventures of Moon Man & Slim Shady (with Eminem)",
+      "release_date": "2020-07-10"
+    }
+  },
+  "Remember The Name (feat. Eminem & 50 Cent)": {
+    "Remember The Name (feat. Eminem & 50 Cent)": {
+      "id": "6jin465re80co3DeK8hsns",
+      "name": "Remember The Name (feat. Eminem & 50 Cent)",
+      "popularity": 43,
+      "duration_ms": 207760,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Remember The Name (feat. Eminem & 50 Cent)",
+      "release_date": "2019-07-11"
+    }
+  },
+  "Homicide": {
+    "Homicide": {
+      "id": "0Lw6aQcBFWTQ9m4MSwwwes",
+      "name": "Homicide",
+      "popularity": 55,
+      "duration_ms": 245413,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Homicide",
+      "release_date": "2019-05-03"
+    }
+  },
+  "Venom (Music From The Motion Picture)": {
+    "Venom - Music From The Motion Picture": {
+      "id": "3kpYJjvM8Ja6btr5hEJLWc",
+      "name": "Venom - Music From The Motion Picture",
+      "popularity": 67,
+      "duration_ms": 269573,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Venom (Music From The Motion Picture)",
+      "release_date": "2018-09-21"
+    }
+  },
+  "Killshot": {
+    "Killshot": {
+      "id": "1jo3TwNGCXfNdB5uba3ZVv",
+      "name": "Killshot",
+      "popularity": 70,
+      "duration_ms": 253579,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Killshot",
+      "release_date": "2018-09-19"
+    }
+  },
+  "Nowhere Fast (Extended Version)": {
+    "Nowhere Fast - Extended Version": {
+      "id": "74uw5w1wZYFYg5aXGyPo4r",
+      "name": "Nowhere Fast - Extended Version",
+      "popularity": 32,
+      "duration_ms": 278402,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Nowhere Fast (Extended Version)",
+      "release_date": "2018-03-17"
+    }
+  },
+  "Chloraseptic (feat. 2 Chainz & Phresher) [Remix]": {
+    "Chloraseptic (feat. 2 Chainz & Phresher) - Remix": {
+      "id": "756ZV0boQJ6Kbk3WFBuVjD",
+      "name": "Chloraseptic (feat. 2 Chainz & Phresher) - Remix",
+      "popularity": 44,
+      "duration_ms": 296940,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Chloraseptic (feat. 2 Chainz & Phresher) [Remix]",
+      "release_date": "2018-01-08"
+    }
+  },
+  "Campaign Speech": {
+    "Campaign Speech": {
+      "id": "1DiJsj5a4zBzWSUWdg2nTv",
+      "name": "Campaign Speech",
+      "popularity": 35,
+      "duration_ms": 468880,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Campaign Speech",
+      "release_date": "2016-10-19"
+    }
+  },
+  "Guts Over Fear": {
+    "Guts Over Fear": {
+      "id": "5zGDSUfYvepIBOBiQlQdpe",
+      "name": "Guts Over Fear",
+      "popularity": 13,
+      "duration_ms": 246386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Guts Over Fear",
+      "release_date": "2014-01-01"
+    }
+  },
+  "The Monster": {
+    "The Monster": {
+      "id": "5iXz9HRkWDIkryIINbmYBQ",
+      "name": "The Monster",
+      "popularity": 34,
+      "duration_ms": 250893,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Monster",
+      "release_date": "2013-01-01"
+    }
+  },
+  "Rap God": {
+    "Rap God": {
+      "id": "6r027Faonff84hxFMjMbIH",
+      "name": "Rap God",
+      "popularity": 57,
+      "duration_ms": 363973,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Rap God",
+      "release_date": "2013-01-01"
+    }
+  },
+  "Beautiful (International Version)": {
+    "Beautiful - Super Clean Radio Edit": {
+      "id": "2dqmuC0vklAYMpoaXcN3kp",
+      "name": "Beautiful - Super Clean Radio Edit",
+      "popularity": 22,
+      "duration_ms": 240693,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Beautiful (International Version)",
+      "release_date": "2009-08-11"
+    },
+    "Beautiful": {
+      "id": "1YJ5azMMe4jGeDUK2JBv4L",
+      "name": "Beautiful",
+      "popularity": 28,
+      "duration_ms": 393240,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Beautiful (International Version)",
+      "release_date": "2009-08-11"
+    },
+    "Beautiful - Instrumental": {
+      "id": "5MjQq5PXyU3InFUGOwD3Fb",
+      "name": "Beautiful - Instrumental",
+      "popularity": 19,
+      "duration_ms": 397626,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Beautiful (International Version)",
+      "release_date": "2009-08-11"
+    },
+    "3 a.m. - Travis Barker Remix, Explicit Version": {
+      "id": "1wYd2KQnTvxqjaZfKspQQC",
+      "name": "3 a.m. - Travis Barker Remix, Explicit Version",
+      "popularity": 18,
+      "duration_ms": 321040,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Beautiful (International Version)",
+      "release_date": "2009-08-11"
+    }
+  },
+  "Forever": {
+    "Forever": {
+      "id": "3qjKqmA2YeH0a8DRoKj8iy",
+      "name": "Forever",
+      "popularity": 68,
+      "duration_ms": 357920,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "Forever",
+      "release_date": "2009-01-01"
+    }
+  },
+  "Shake That (Radio Edit Version)": {
+    "Shake That - Radio Edit": {
+      "id": "1NOgYyLQJpQ9Ntyn5GnRjr",
+      "name": "Shake That - Radio Edit",
+      "popularity": 64,
+      "duration_ms": 274106,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Shake That (Radio Edit Version)",
+      "release_date": "2006-01-17"
+    }
+  },
+  "When I'm Gone": {
+    "When I'm Gone": {
+      "id": "2lRI7n5b9jlPYsEpRuots6",
+      "name": "When I'm Gone",
+      "popularity": 62,
+      "duration_ms": 281120,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "When I'm Gone",
+      "release_date": "2005-12-06"
+    },
+    "Business": {
+      "id": "4b6fib80DPnAyPnrBuYeFc",
+      "name": "Business",
+      "popularity": 31,
+      "duration_ms": 251933,
+      "explicit": true,
+      "preview_url": null,
+      "album_name": "When I'm Gone",
+      "release_date": "2005-12-06"
+    },
+    "When I'm Gone - Instrumental": {
+      "id": "6H8d2uOdQKVon6tVOJrN1Y",
+      "name": "When I'm Gone - Instrumental",
+      "popularity": 31,
+      "duration_ms": 282573,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "When I'm Gone",
+      "release_date": "2005-12-06"
+    }
+  }
+}

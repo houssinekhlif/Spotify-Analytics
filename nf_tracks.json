@@ -1,0 +1,636 @@
+{
+  "HOPE": {
+    "HOPE": {
+      "id": "12cZWGf5ZgLcKubEW9mx5q",
+      "name": "HOPE",
+      "popularity": 66,
+      "duration_ms": 264473,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "HOPE",
+      "release_date": "2023-02-16"
+    }
+  },
+  "CLOUDS (THE MIXTAPE)": {
+    "CLOUDS": {
+      "id": "1mvI5pGoh84IiFSbWxEkGH",
+      "name": "CLOUDS",
+      "popularity": 63,
+      "duration_ms": 243760,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "THAT'S A JOKE": {
+      "id": "27a0ydWvFCt4jgl9m61lS1",
+      "name": "THAT'S A JOKE",
+      "popularity": 58,
+      "duration_ms": 229656,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "JUST LIKE YOU": {
+      "id": "7tTRFVlFzk6yTnoMcParmi",
+      "name": "JUST LIKE YOU",
+      "popularity": 64,
+      "duration_ms": 251236,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "STORY": {
+      "id": "7HiIy4QaA5ud7ZuuyBysKk",
+      "name": "STORY",
+      "popularity": 54,
+      "duration_ms": 279940,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "PRIDEFUL": {
+      "id": "1YEXlV81t42IuXMnL600rg",
+      "name": "PRIDEFUL",
+      "popularity": 53,
+      "duration_ms": 205768,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "LOST": {
+      "id": "1PTVGdcYyLFnJKVOkaxQWj",
+      "name": "LOST",
+      "popularity": 57,
+      "duration_ms": 234852,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "LAYERS": {
+      "id": "7ipUYshiPzzUs9EdeOsBFO",
+      "name": "LAYERS",
+      "popularity": 54,
+      "duration_ms": 195226,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "DRIFTING": {
+      "id": "2hRlHXzOf14ArYmOPeAXsa",
+      "name": "DRIFTING",
+      "popularity": 60,
+      "duration_ms": 200049,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "TRUST": {
+      "id": "2FSVMyqLldC36p0deIYvI9",
+      "name": "TRUST",
+      "popularity": 59,
+      "duration_ms": 264415,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "PAID MY DUES": {
+      "id": "6ziQdexOHyC2gkZ1iNoi1w",
+      "name": "PAID MY DUES",
+      "popularity": 59,
+      "duration_ms": 211643,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    },
+    "CLOUDS - Edit": {
+      "id": "4eL4EOrlxrKK9TmyVjueXd",
+      "name": "CLOUDS - Edit",
+      "popularity": 47,
+      "duration_ms": 229687,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (THE MIXTAPE)",
+      "release_date": "2021-03-26"
+    }
+  },
+  "The Search": {
+    "The Search": {
+      "id": "2OKo7g3KfmCt3kyLvUAL0g",
+      "name": "The Search",
+      "popularity": 68,
+      "duration_ms": 248040,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Search",
+      "release_date": "2019-05-30"
+    }
+  },
+  "Perception": {
+    "Intro III": {
+      "id": "6e56CkYWD3JO6ovFZBA8po",
+      "name": "Intro III",
+      "popularity": 58,
+      "duration_ms": 268666,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Outcast": {
+      "id": "0we7ShV1o6cPTFjxOADPbC",
+      "name": "Outcast",
+      "popularity": 55,
+      "duration_ms": 325720,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "10 Feet Down": {
+      "id": "68biLwi894rMQPeIiSky2t",
+      "name": "10 Feet Down",
+      "popularity": 59,
+      "duration_ms": 217106,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Green Lights": {
+      "id": "0MvqSYPr5Wi62JB7VWvqwz",
+      "name": "Green Lights",
+      "popularity": 53,
+      "duration_ms": 181866,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Dreams": {
+      "id": "0wf9rSX8ds3yEI2gf2QdPs",
+      "name": "Dreams",
+      "popularity": 57,
+      "duration_ms": 221573,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Let You Down": {
+      "id": "52okn5MNA47tk87PeZJLEL",
+      "name": "Let You Down",
+      "popularity": 78,
+      "duration_ms": 212120,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Destiny": {
+      "id": "5n4ZzdO7KtpxsDpoDTa3D6",
+      "name": "Destiny",
+      "popularity": 52,
+      "duration_ms": 239480,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "My Life": {
+      "id": "1kO0nC4VnEjMBeJZI7g2T2",
+      "name": "My Life",
+      "popularity": 60,
+      "duration_ms": 215600,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "You're Special": {
+      "id": "4dfy1Pij4jFFefoamgnoOF",
+      "name": "You're Special",
+      "popularity": 54,
+      "duration_ms": 312333,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "If You Want Love": {
+      "id": "3i5qVV8azKqGFK4Gzdt5YS",
+      "name": "If You Want Love",
+      "popularity": 71,
+      "duration_ms": 199386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Remember This": {
+      "id": "5dMKsEQSlR2ITYpScl7UMd",
+      "name": "Remember This",
+      "popularity": 65,
+      "duration_ms": 240386,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Know": {
+      "id": "3MFyER5LVCQNaUtipifGD7",
+      "name": "Know",
+      "popularity": 51,
+      "duration_ms": 238666,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Lie": {
+      "id": "07FkzikE6FuHIa8Ma7zJGc",
+      "name": "Lie",
+      "popularity": 74,
+      "duration_ms": 209213,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "3 A.M.": {
+      "id": "1CDPxTsKRhI0wWel01w4Vy",
+      "name": "3 A.M.",
+      "popularity": 53,
+      "duration_ms": 218200,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "One Hundred": {
+      "id": "0zdycLZKxVZ3EA8Nuxo35M",
+      "name": "One Hundred",
+      "popularity": 49,
+      "duration_ms": 192800,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    },
+    "Outro": {
+      "id": "7uax1a1G4cg1GgokfakTnN",
+      "name": "Outro",
+      "popularity": 50,
+      "duration_ms": 212186,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Perception",
+      "release_date": "2017-10-06"
+    }
+  },
+  "Therapy Session": {
+    "Intro 2": {
+      "id": "6nonTdcZbN2pmyiN032MXw",
+      "name": "Intro 2",
+      "popularity": 50,
+      "duration_ms": 195933,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Therapy Session": {
+      "id": "6WKk8l8EXiwPBYlmSlhZWx",
+      "name": "Therapy Session",
+      "popularity": 60,
+      "duration_ms": 331480,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "I Just Wanna Know": {
+      "id": "141K1xJ176S0U6PPkc4Nee",
+      "name": "I Just Wanna Know",
+      "popularity": 52,
+      "duration_ms": 226306,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "How Could You Leave Us": {
+      "id": "10bt2wAkFgCWRCEOyAyWT9",
+      "name": "How Could You Leave Us",
+      "popularity": 61,
+      "duration_ms": 322586,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Breathe": {
+      "id": "4Jtn7b3hgyzSQKj9ZMiht3",
+      "name": "Breathe",
+      "popularity": 50,
+      "duration_ms": 259106,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Real": {
+      "id": "0ZFayEwoO5qqYjsOi8YDjO",
+      "name": "Real",
+      "popularity": 57,
+      "duration_ms": 263040,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Oh Lord": {
+      "id": "1ISsiC4Fw6f96kZQegLGiJ",
+      "name": "Oh Lord",
+      "popularity": 61,
+      "duration_ms": 198253,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "I Can Feel It": {
+      "id": "7n1UFPbFnAwIBsV14BC17A",
+      "name": "I Can Feel It",
+      "popularity": 46,
+      "duration_ms": 233573,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Got You On My Mind": {
+      "id": "3XeB1bCs6NSaLKmTkVbx6R",
+      "name": "Got You On My Mind",
+      "popularity": 55,
+      "duration_ms": 241160,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Grindin'": {
+      "id": "3m6HMeFX6GIlGPMBcLEN6t",
+      "name": "Grindin'",
+      "popularity": 58,
+      "duration_ms": 277293,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Wish You Wouldn't": {
+      "id": "0lOMLHxg0Fz70i2BE5o334",
+      "name": "Wish You Wouldn't",
+      "popularity": 46,
+      "duration_ms": 286266,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Statement": {
+      "id": "3cNmoc8vvy0T0m65PLdNEU",
+      "name": "Statement",
+      "popularity": 47,
+      "duration_ms": 190920,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "All I Do": {
+      "id": "7nuBN1pCPvpOFBn6CZ4bun",
+      "name": "All I Do",
+      "popularity": 46,
+      "duration_ms": 228493,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    },
+    "Lost In The Moment": {
+      "id": "3qEg6xYffvuvwpq4U6FRrK",
+      "name": "Lost In The Moment",
+      "popularity": 62,
+      "duration_ms": 242680,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Therapy Session",
+      "release_date": "2016-04-22"
+    }
+  },
+  "MOTTO": {
+    "MOTTO": {
+      "id": "3q9PVufz68TRvOao25IMNk",
+      "name": "MOTTO",
+      "popularity": 55,
+      "duration_ms": 217271,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "MOTTO",
+      "release_date": "2023-03-09"
+    }
+  },
+  "LOST": {
+    "LOST": {
+      "id": "2MZrOmrVxRmmOoFW6dhenG",
+      "name": "LOST",
+      "popularity": 51,
+      "duration_ms": 234852,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "LOST",
+      "release_date": "2021-03-11"
+    }
+  },
+  "CLOUDS (Edit)": {
+    "CLOUDS - Edit": {
+      "id": "3K8WGcz1AB6MvSlRypACC8",
+      "name": "CLOUDS - Edit",
+      "popularity": 33,
+      "duration_ms": 229687,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS (Edit)",
+      "release_date": "2021-02-18"
+    }
+  },
+  "CLOUDS": {
+    "CLOUDS": {
+      "id": "5UMMPHPp6vRP6ghPpSUOzp",
+      "name": "CLOUDS",
+      "popularity": 52,
+      "duration_ms": 243750,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "CLOUDS",
+      "release_date": "2021-02-18"
+    }
+  },
+  "Chasing_(Demo)": {
+    "Chasing_(Demo)": {
+      "id": "4f80SteKqaB6M2JytEUrwT",
+      "name": "Chasing_(Demo)",
+      "popularity": 58,
+      "duration_ms": 181714,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Chasing_(Demo)",
+      "release_date": "2020-10-12"
+    }
+  },
+  "PAID MY DUES": {
+    "PAID MY DUES": {
+      "id": "18czZN7uruOjftj71Kt8oj",
+      "name": "PAID MY DUES",
+      "popularity": 50,
+      "duration_ms": 211643,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "PAID MY DUES",
+      "release_date": "2019-12-03"
+    }
+  },
+  "Time": {
+    "Time - Edit": {
+      "id": "68Vm2W4oURsPV3121vUZgB",
+      "name": "Time - Edit",
+      "popularity": 50,
+      "duration_ms": 230610,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "Time",
+      "release_date": "2019-07-12"
+    }
+  },
+  "When I Grow Up": {
+    "When I Grow Up": {
+      "id": "0hWzB4dR1zwcokPvccww0k",
+      "name": "When I Grow Up",
+      "popularity": 53,
+      "duration_ms": 196800,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "When I Grow Up",
+      "release_date": "2019-06-27"
+    }
+  },
+  "The Search (Edit)": {
+    "The Search - Edit": {
+      "id": "4tZDUt8vHpvjfOXcHwOvtq",
+      "name": "The Search - Edit",
+      "popularity": 65,
+      "duration_ms": 197694,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "The Search (Edit)",
+      "release_date": "2019-06-07"
+    }
+  },
+  "WHY": {
+    "WHY": {
+      "id": "7rjGZWlqqeEMDrAabwZQhr",
+      "name": "WHY",
+      "popularity": 53,
+      "duration_ms": 188989,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "WHY",
+      "release_date": "2018-06-18"
+    }
+  },
+  "NO NAME": {
+    "NO NAME": {
+      "id": "7hdw5gAGMyyn9z0XgfTv1j",
+      "name": "NO NAME",
+      "popularity": 57,
+      "duration_ms": 183826,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NO NAME",
+      "release_date": "2018-01-19"
+    }
+  },
+  "NF": {
+    "All I Have": {
+      "id": "3ANTUOXWXn0ASOGjywF7e9",
+      "name": "All I Have",
+      "popularity": 37,
+      "duration_ms": 248213,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    },
+    "Wake Up": {
+      "id": "2KNsVQV1ZPWehB21oQ1krL",
+      "name": "Wake Up",
+      "popularity": 36,
+      "duration_ms": 232986,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    },
+    "Hands Up": {
+      "id": "2lrvQCsMALjGeuyUkuzIxA",
+      "name": "Hands Up",
+      "popularity": 42,
+      "duration_ms": 199266,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    },
+    "Only One": {
+      "id": "1iAqQMUVtp5E1EYJkqZw2g",
+      "name": "Only One",
+      "popularity": 47,
+      "duration_ms": 214600,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    },
+    "Thing Called Love": {
+      "id": "239VFYzJLnwfZbh6Fz29wY",
+      "name": "Thing Called Love",
+      "popularity": 49,
+      "duration_ms": 294320,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    },
+    "Just Being Me": {
+      "id": "44vMHn5aDNEkUdQmonvHp3",
+      "name": "Just Being Me",
+      "popularity": 43,
+      "duration_ms": 223093,
+      "explicit": false,
+      "preview_url": null,
+      "album_name": "NF",
+      "release_date": "2014-08-05"
+    }
+  }
+}
